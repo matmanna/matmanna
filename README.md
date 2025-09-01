@@ -4,10 +4,10 @@
 ### `about`
 ```typescript
 {
-  types: [
+  is: [
     "fullstack developer",
-    "designer",
-    "developer",
+    "guitarist",
+    "indie maker",
   ],
   likes: [
     "free software",
