@@ -6,27 +6,38 @@
 {
   is: [
     "fullstack developer",
-    "guitarist",
     "indie maker",
+    "guitarist"
   ],
-  likes: [
-    "free software",
-    "typography",
-    "trivia",
+  passions: [
+    "graphic design",
+    "trivia"
   ]
 }
 ```
 
+### `where`
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
+[![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/matmanna)
+[![](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
+[![](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
+
+
+
 ### `uses`
 
-- **Text Editing & IDE:**
+- **Text Editing, Terminal, and IDE:**
 [![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)](http://neovim.io/)
 [![](https://img.shields.io/badge/Logseq-black?logo=logseq&logoColor=85C8C8)](https://logseq.com/)
 ( formerly: [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual_studio_code&logoColor=white)](https://code.visualstudio.com/) )
+[![](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=white)](https://wezterm.org/)
+[![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+( formerly: [![](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal) )
+[![](https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white)](https://www.termius.com/)
 [![](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white)](https://posit.co/download/rstudio-desktop/)
-[![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://posit.co/download/rstudio-desktop/)
-
+[![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - **Web Browsing & Productivity:**
 [![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white)](https://zen-browser.app/)
@@ -37,12 +48,6 @@
 )
 [![](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](https://www.thunderbird.net/)
 [![](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
-
-- **Terminal:**
-[![](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=white)](https://wezterm.org/)
-[![](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-( formerly: [![](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal) )
-[![](https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white)](https://www.termius.com/)
 
 - **Frontend Dev:**
 [![](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=FFFFFF)](https://nextjs.org/?uwu=1)
