@@ -144,12 +144,12 @@
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" width="80%" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/48e1fd74-a49c-4958-8590-8ff76153ad38.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/48e1fd74-a49c-4958-8590-8ff76153ad38.svg">
 
 
-  <source media="(prefers-color-scheme: light)" width="80%" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
 
 
-  <img alt="Fallback image description" width="80%" src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
+  <img alt="Wakatime coding hours graph" src="https://wakatime.com/share/@7482ea9d-3085-4e9b-95ad-1ca78a14d948/657bda60-779f-457a-9240-a7ce965b2060.svg">
 
 </picture>
