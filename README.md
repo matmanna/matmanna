@@ -23,8 +23,6 @@
 [![](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
 [![](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
 
-
-
 ### `uses`
 
 - **Text Editing, Terminal, and IDE:**
@@ -39,7 +37,7 @@
 [![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white)](https://posit.co/download/rstudio-desktop/)
 [![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
 
-- **Web Browsing & Productivity:**
+- **Productivity:**
 [![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white)](https://zen-browser.app/)
 ( formerly:
 [![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new)
@@ -48,6 +46,7 @@
 )
 [![](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](https://www.thunderbird.net/)
 [![](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
+[![](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](https://beeper.com/)
 
 - **Frontend Dev:**
 [![](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=FFFFFF)](https://nextjs.org/?uwu=1)
