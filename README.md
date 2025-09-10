@@ -4,15 +4,8 @@
 ### `about`
 ```typescript
 {
-  is: [
-    "fullstack developer",
-    "indie maker",
-    "guitarist"
-  ],
-  passions: [
-    "graphic design",
-    "trivia"
-  ]
+  is: [ "fullstack developer", "indie maker", "guitarist" ],
+  passions: [ "graphic design", "typography", "trivia" ]
 }
 ```
 
