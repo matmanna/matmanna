@@ -1,7 +1,7 @@
 <!-- Animated 3D Emojis are from Microsoft Fluent Emoji Library: https://github.com/microsoft/fluentui-emoji (MIT License)-->
 ## Ahoy, <img src="https://user-images.githubusercontent.com/91392083/191121141-db352496-27e2-46d6-923c-6bee904bdb8b.png" valign="center" width=28 height=28>
 
-### `about`
+### `:about`
 ```typescript
 {
   is: [ "fullstack developer", "indie maker", "guitarist" ],
@@ -9,14 +9,14 @@
 }
 ```
 
-### `where`
+### `:where`
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
 [![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/matmanna)
 [![](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
 [![](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
 
-### `uses`
+### `:uses`
 
 - **Text Editing, Terminal, and IDE:**
 [![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)](http://neovim.io/)
@@ -132,7 +132,7 @@
 [![](https://img.shields.io/badge/Posthog-000000?logo=posthog&logoColor=white)](https://posthog.com/)
 [![](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](https://socket.dev/)
 
-### `does`
+### `:does`
 
 <picture>
 
