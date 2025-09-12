@@ -11,10 +11,14 @@
 
 ### `:where`
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
+[![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)](https://www.npmjs.com/~matmanna)
+[![](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge)](https://pypi.org/user/matmanna/)
+[![](https://img.shields.io/badge/JSR-F7DF1E?logo=jsr&logoColor=000&style=for-the-badge)](https://jsr.io/user/36b8a0db-744f-472a-a361-330ed7e37246)
 [![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/matmanna)
 [![](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
 [![](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
+<!--[![](https://img.shields.io/badge/RubyGems-%23CC342D.svg?&logo=rubygems&logoColor=white)](#)-->
 
 ### `:uses`
 
