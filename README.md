@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/Waka-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/In-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
 [![](https://img.shields.io/badge/Itch-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
-[![](https://img.shields.io/badge/RubyGems-%23CC342D.svg?&logo=rubygems&logoColor=white)](https://rubygems.org/profiles/matmanna)
+[![](https://img.shields.io/badge/Gems-%23CC342D.svg?&logo=rubygems&logoColor=white&style=for-the-badge)](https://rubygems.org/profiles/matmanna)
 
 #### `:uses`
 
