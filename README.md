@@ -102,7 +102,7 @@
 
 - **Creative:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
-( fmr: [![](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white)](https://scratch.mit.edu) )
+( fmr: [![](https://img.shields.io/badge/Scratch-855CD6?logo=scratch&logoColor=white)](https://scratch.mit.edu) )
 [![](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://blender.org)
 [![](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 [![](https://img.shields.io/badge/Aseprite-efefef?logo=aseprite&logoColor=black)](https://aseprite.org)
