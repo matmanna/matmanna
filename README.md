@@ -68,8 +68,7 @@
 [![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/)
 
 - **Backend Dev:**
-[![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Deno-70FFAF?logo=deno&logoColor=black)](https://deno.land/)
+[![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)]
 [![](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](https://hono.dev/)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -85,9 +84,7 @@
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 )
 [![](https://img.shields.io/badge/Java-e76f01?logoColor=white)](https://www.java.com/)
-[![](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
 - **Creative:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
