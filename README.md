@@ -26,10 +26,8 @@
 [![](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)](http://neovim.io/)
 [![](https://img.shields.io/badge/Logseq-black?logo=logseq&logoColor=85C8C8)](https://logseq.com/)
 [![](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=white)](https://wezterm.org/)
-[![](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white)](https://www.termius.com/)
 [![](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white)](https://posit.co/download/rstudio-desktop/)
 [![](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
 
 - **Productivity:**
