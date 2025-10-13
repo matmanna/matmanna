@@ -68,15 +68,6 @@
 [![](https://img.shields.io/badge/Hugo-EA4C89?logo=hugo&logoColor=white)](https://gohugo.io/)
 [![](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/)
-( fmr: [![](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=ffffff)](https://mui.com/)
-[![](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)](https://capacitorjs.com/)
-[![](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)](https://ionicframework.com/)
-[![](https://img.shields.io/badge/SAP_Build-0FAAFF?logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/low-code-app-builder.html)
-[![](https://img.shields.io/badge/Kodular-673ab7)](https://www.kodular.io/)
-[![](https://img.shields.io/badge/Thunkable-ef5048)](https://thunkable.com/)
-[![](https://img.shields.io/badge/App_Inventor-a4cf46)](https://appinventor.mit.edu/)
-[![](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
-)
 
 - **Backend Dev:**
 [![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
