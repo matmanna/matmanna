@@ -105,9 +105,9 @@
 
 #### `:does`
 
-<a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=catppuccin&standalone=true" title="Click to view detailed data for each day!">
+<a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=catppuccin_dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=catppuccin_light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">
     </picture>
 </a>
