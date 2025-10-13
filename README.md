@@ -107,7 +107,6 @@
 [![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)]([https://www.usebruno.com/](https://yaml.org/))
 [![](https://img.shields.io/badge/GH_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-( fmr: [![](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)](https://www.postman.com/) )
 [![](https://img.shields.io/badge/Posthog-000000?logo=posthog&logoColor=white)](https://posthog.com/)
 [![](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](https://socket.dev/)
 
