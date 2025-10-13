@@ -68,7 +68,7 @@
 [![](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)](https://astro.build/)
 
 - **Backend Dev:**
-[![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)]
+![](https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white)
 [![](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)](https://hono.dev/)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -88,7 +88,6 @@
 
 - **Creative:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
-( fmr: [![](https://img.shields.io/badge/Scratch-855CD6?logo=scratch&logoColor=white)](https://scratch.mit.edu) )
 [![](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://blender.org)
 [![](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 [![](https://img.shields.io/badge/Aseprite-efefef?logo=aseprite&logoColor=black)](https://aseprite.org)
@@ -97,7 +96,6 @@
 [![](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)](https://excalidraw.com/)
 
 - **DX:**
-[![](https://img.shields.io/badge/WSL-4EAA25?logo=wsl&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org)
 [![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Raspbian-A22846?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/)
@@ -106,13 +104,11 @@
 [![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![](https://img.shields.io/badge/Web_Store-4285F4?logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/)
-[![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)]([https://www.usebruno.com/](https://yaml.org/))
 [![](https://img.shields.io/badge/GH_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](https://www.usebruno.com/)
 ( fmr: [![](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)](https://www.postman.com/) )
 [![](https://img.shields.io/badge/Posthog-000000?logo=posthog&logoColor=white)](https://posthog.com/)
 [![](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](https://socket.dev/)
