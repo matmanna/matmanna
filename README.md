@@ -32,9 +32,9 @@
 
 - **Productivity:**
 [![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white)](https://zen-browser.app/)
-[![](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](https://www.thunderbird.net/)
+[![](https://img.shields.io/badge/Thunder-0A84FF?logo=thunderbird&logoColor=white)](https://www.thunderbird.net/)
 [![](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
-[![](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](https://beeper.com/)
+[![](https://custom-icon-badges.demolab.com/badge/Beep-6A4BE5?logo=beeper-white&logoColor=fff)](https://beeper.com/)
 
 - **Frontend Dev:**
 [![](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=FFFFFF)](https://nextjs.org/?uwu=1)
