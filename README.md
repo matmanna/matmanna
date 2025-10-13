@@ -32,11 +32,6 @@
 
 - **Productivity:**
 [![](https://img.shields.io/badge/Zen-black?logo=zenbrowser&logoColor=white)](https://zen-browser.app/)
-( fmr:
-[![](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new)
-[![](https://img.shields.io/badge/Opera_GX-EE2950?logo=operagx&logoColor=white)](https://opera.com/gx)
-[![](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
-)
 [![](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](https://www.thunderbird.net/)
 [![](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
 [![](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](https://beeper.com/)
