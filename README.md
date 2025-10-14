@@ -97,7 +97,6 @@
 [![](https://img.shields.io/badge/Java-e76f01?logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/R-276dc3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
 - **Creative:** 
 [![](https://img.shields.io/badge/Godot-478CBF?logo=godot%20engine&logoColor=white)](https://godotengine.org)
@@ -110,7 +109,6 @@
 [![](https://img.shields.io/badge/Excalidraw-6965DB?logo=excalidraw&logoColor=white)](https://excalidraw.com/)
 
 - **DX:**
-[![](https://img.shields.io/badge/WSL-4EAA25?logo=wsl&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org)
 [![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Raspbian-A22846?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/)
@@ -119,7 +117,6 @@
 [![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![](https://img.shields.io/badge/Web_Store-4285F4?logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/)
-[![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 [![](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/)
 [![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)]([https://www.usebruno.com/](https://yaml.org/))
