@@ -5,7 +5,7 @@
 ```typescript
 {
   is: [ "fullstack developer", "indie maker", "guitarist" ],
-  passions: [ "graphic design", "typography", "trivia" ]
+  likes: [ "good search ux", "typography", "trivia" ]
 }
 ```
 
