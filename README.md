@@ -17,8 +17,10 @@
 [![](https://img.shields.io/badge/Gems-%23CC342D.svg?&logo=rubygems&logoColor=white&style=for-the-badge)](https://rubygems.org/profiles/matmanna)
 [![](https://img.shields.io/badge/Lab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/matmanna)
 [![](https://img.shields.io/badge/Waka-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
+[![](https://img.shields.io/badge/post-003E54?logo=devpost&logoColor=white&style=for-the-badge)](https://devpost.com/matmanna)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/In-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/matmanna)
 [![](https://img.shields.io/badge/Itch-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://matmanna.itch.io/)
+
 #### `:uses`
 
 - **Text Editing, Terminal, and IDE:**
