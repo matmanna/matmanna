@@ -13,7 +13,6 @@
 
 [![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)](https://www.npmjs.com/~matmanna)
 [![](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge)](https://pypi.org/user/matmanna/)
-[![](https://img.shields.io/badge/JSR-F7DF1E?logo=jsr&logoColor=000&style=for-the-badge)](https://jsr.io/user/36b8a0db-744f-472a-a361-330ed7e37246)
 [![](https://img.shields.io/badge/Gems-%23CC342D.svg?&logo=rubygems&logoColor=white&style=for-the-badge)](https://rubygems.org/profiles/matmanna)
 [![](https://img.shields.io/badge/Lab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/matmanna)
 [![](https://img.shields.io/badge/Waka-000000?logo=wakatime&logoColor=white&style=for-the-badge)](https://wakatime.com/@matmanna)
