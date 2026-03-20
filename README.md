@@ -10,33 +10,33 @@
 
 ### a lil' `:about` me
 
-A decade of [technical experience](#formative-experiences) has shaped me into an indie maker who builds engaging, accessible, and secure tools<sup id="fnref-3"><a href="#fn-3" class="footnote-ref" title="Third footnote content here">[3]</a></sup> for real people. I am especially passionate about search UX, decentralized infrastructure, and safer digital experiences.
+A decade of [technical experience](#formative-experiences) has shaped me into an indie maker who builds engaging, accessible, and secure tools<sup id="fnref-3"><a href="#fn-3" class="footnote-ref" title="Third footnote content here">[3]</a></sup> for real people. I am especially passionate about search UX, decentralized infrastructure, and a safe internet.
 
 Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnref-4"><a href="#fn-4" class="footnote-ref" title="Fourth footnote content here">[4]</a></sup>, and linguaphile.<sub> (English, Spanish, and Esperanto)</sub>
 
 ### what i'm up to `:now`
 
-Recently, I've been:
-- reverse-engineering electric and bass guitar amplifiers to build:
-  - LtAmp.py: a Python [library](https://pypi.org/p/ltamp) for interacting with supported amplifiers
-  - The Twist: an augmentation module with features including remote control and preset playlists
-- contributing code and providing volunteer technical support for Hack Club platforms and programs incl. [Hackatime](https://hackati.me) and [HCTG](https://game.hackclub.com).
-- <details><summary>thinking, hacking, and shipping <sub>(expand to see markscribe stats!)</sub></summary>
+<details><summary>Recently, I've been shipping a lot,<sub> (expand for stats!)</sub> but I've also been:</summary> 
   <a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">    <picture>        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">    </picture></a> 
 </details>
 
+- reverse-engineering electric and bass guitar amplifiers to build:
+  - LtAmp.py: a Python [library](https://pypi.org/p/ltamp) for interacting with supported amplifiers
+  - The Twist: an augmentation module with features including remote control and preset playlists
+- contributing code and providing volunteer technical support for [Hack Club](https://hack.club?uwu) platforms and programs incl. [Hackatime](https://hackati.me) and [HCTG](https://game.hackclub.com).
+
 ### formative `:experiences`
 
-Since being exposed to computer programming on Scratch a decade ago, I’ve:
-- made [videogames](https://matmanna.itch.io) in 48hrs-2wks as submissions for ~7 game jams
+Since being exposed to computer programming on [Scratch](https://scratch.mit.edu) a decade ago, I’ve:
+- made videogame [submissions](https://matmanna.itch.io) within 48hrs-2wks for ~7 game jams
 - built a life-sized [board game](https://github.com/ldnano/o-fn) using industrial automation technology to support community outreach and philanthropy, winning:
   - 1st in the 2025 **PLCNext Innovation Contest Nationals**
   - 1st at the 2026 **Pennsylvania Invention Convention**
-  - a Hack Club X Congressional App Challenge **Open-source Certification**
+  - a Hack Club X Congressional App Challenge [**Open-source Certification**](http://congressional.hackclub.com/)
 - ran AV systems (livestreams and sound mixers) for funerals and weddings
 - discovered and disclosed XSS vulnerabilities and high-impact data leaks within my school and Hack Club
 - <details><summary>other miscellaneous accomplishments<sub> (not that interesting)</sub></summary><ul>
-  <li>Participated in the selective PennApps XXVI college hackathon</li>
+  <li>Participated in the selective PennApps XXVI college [hackathon](https://pennapps.com)</li>
   <li>Received recognition for Integrity and Sportsmanship within academic competitions.</li>
   <li>Earned ~$1k in grants and prizes for personal projects submitted to Hack Club programs incl. High Seas, Summer of Making, CMD-K, and Magazine.</li></ul>
   </details>
@@ -52,7 +52,7 @@ Since being exposed to computer programming on Scratch a decade ago, I’ve:
 <li id="fn-1">competitive environments fostered my "ship early" mentality<a href="#fnref-1" class="footnote-backref">↩</a></li>
 <li id="fn-1">i normally go by <code>@matmanna</code> (or <code>@mat</code>) but please <a href="https://matmanna.dev/verify">verify</a> <a href="#fnref-1" class="footnote-backref">↩</a></li>
 <li id="fn-1">i see my projects as tools (not products) meant to serve. (what do i  <a href="https://matmanna.dev/use"></a><a href="#fnref-1" class="footnote-backref">↩</a>?)</li>
-<li id="fn-1">esp. trivia, having competed on a TV quizbowl and won 3<sup>rd</sup> at a regional NOSB.<a href="#fnref-1" class="footnote-backref">↩</a></li>
+<li id="fn-4">esp. trivia, having competed on a TV quizbowl and won 3<sup>rd</sup> at a regional NOSB.<a href="#fnref-4" class="footnote-backref">↩</a></li>
 </ol>
 </td>
 <td width="210px">
