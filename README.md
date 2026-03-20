@@ -18,9 +18,9 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 Recently, I've been:
 - reverse-engineering electric and bass guitar amplifiers to build:
-  - LtAmp.py: a Python library for interacting with supported amplifiers
+  - LtAmp.py: a Python [library](https://pypi.org/p/ltamp) for interacting with supported amplifiers
   - The Twist: an augmentation module with features including remote control and preset playlists
-- contributing code and providing volunteer technical support for Hack Club platforms and programs incl. Hackatime and HCTG.
+- contributing code and providing volunteer technical support for Hack Club platforms and programs incl. [Hackatime](https://hackati.me) and [HCTG](https://game.hackclub.com).
 - <details><summary>thinking, hacking, and shipping <sub>(expand to see markscribe stats!)</sub></summary>
   <a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">    <picture>        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">    </picture></a> 
 </details>
@@ -41,8 +41,6 @@ Since being exposed to computer programming on Scratch a decade ago, I’ve:
   <li>Earned ~$1k in grants and prizes for personal projects submitted to Hack Club programs incl. High Seas, Summer of Making, CMD-K, and Magazine.</li></ul>
   </details>
 
-
-
 ### thanks for stopping by!
    
 <table width="100%">
@@ -53,7 +51,7 @@ Since being exposed to computer programming on Scratch a decade ago, I’ve:
 <ol>
 <li id="fn-1">competitive environments fostered my "ship early" mentality<a href="#fnref-1" class="footnote-backref">↩</a></li>
 <li id="fn-1">i normally go by <code>@matmanna</code> (or <code>@mat</code>) but please <a href="https://matmanna.dev/verify">verify</a> <a href="#fnref-1" class="footnote-backref">↩</a></li>
-<li id="fn-1">i see my projects as tools meant to serve, not products to exploit. (what do i  <a href="https://matmanna.dev/use"></a><a href="#fnref-1" class="footnote-backref">↩</a>?)</li>
+<li id="fn-1">i see my projects as tools (not products) meant to serve. (what do i  <a href="https://matmanna.dev/use"></a><a href="#fnref-1" class="footnote-backref">↩</a>?)</li>
 <li id="fn-1">esp. trivia, having competed on a TV quizbowl and won 3<sup>rd</sup> at a regional NOSB.<a href="#fnref-1" class="footnote-backref">↩</a></li>
 </ol>
 </td>
