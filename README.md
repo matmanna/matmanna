@@ -10,7 +10,7 @@
 
 ### a lil' `:about` me
 
-A decade of technical [experience](#formative-experiences) has shaped me into an indie maker who builds engaging, accessible, and secure tools<sup id="fnref-3"><a href="#fn-3" class="footnote-ref" title="Third footnote content here">[3]</a></sup> for real people. I am especially passionate about search UX, decentralized infrastructure, and a safe internet.
+A decade of technical [experience](#formative-experiences) has shaped me into an indie maker who builds engaging, accessible, and secure tools<sup id="fnref-3"><a href="#fn-3" class="footnote-ref" title="Third footnote content here">[3]</a></sup> for real people. I am especially passionate about search UX, decentralized infrastructure, and a safer internet.
 
 Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnref-4"><a href="#fn-4" class="footnote-ref" title="Fourth footnote content here">[4]</a></sup>, and linguaphile.<sub> (English, Spanish, and Esperanto)</sub>
 
@@ -29,10 +29,10 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 Since being exposed to computer programming on [Scratch](https://scratch.mit.edu) a decade ago, I’ve:
 - made videogame [submissions](https://matmanna.itch.io) within 48hrs-2wks for ~7 game jams
-- built a life-sized [board game](https://github.com/ldnano/o-fn) using industrial technology to support community philanthropy & won:
+- built a life-sized [board game](https://github.com/ldnano/o-fn) using industrial tech which supports community outreach & won:
   - 1st in the 2025 **PLCNext Innovation Contest Nationals**
   - 1st at the 2026 **Pennsylvania Invention Convention**
-  - a Hack Club X Congressional App Challenge [**Open-source Certification**](http://congressional.hackclub.com/)
+  - a Hack Club X Congressional App Challenge **Open-source** [**Certification**](http://congressional.hackclub.com/)
 - ran AV systems (livestreams and sound mixers) for funerals and weddings
 - discovered and disclosed vulnerabilities and data leaks within my school and Hack Club
 - <details><summary>other miscellaneous accomplishments<sub> (not that interesting)</sub></summary><ul>
