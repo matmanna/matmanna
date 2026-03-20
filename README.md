@@ -40,11 +40,9 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
   <li>Received recognition for Integrity and Sportsmanship within academic competitions.</li>
   <li>Earned ~$1k in grants and prizes for personal projects submitted to Hack Club programs incl. High Seas, Summer of Making, CMD-K, and Magazine.</li></ul>
   </details>
-
-### thanks for stopping by!
    
 <table width="100%">
-<th>footnotes for those who care</th>
+<th>Thanks for stopping by!<sub> footnotes and <code>:extra</code> things for those who care</sub></th>
 <th>88x31s!</th>
 <tr>
 <td class="footnotes">
@@ -59,11 +57,11 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
 <a href="https://hackclub.com"><img src="./badges/hackclub.png" class="hover:-translate-y-1 transform"></a>
 <a href="https://archive.org"><img src="./badges/archive.gif" class="hover:-translate-y-1 transform"></a>
 <a href="https://yesterweb.org/no-to-web3/"><img src="./badges/roly-saynotoweb3.gif" class="hover:-translate-y-1 transform"></a>
-<a href="https://rust-lang.org" target="_blank"><img loading="lazy" src="./badges/runrust.png" alt="Rust!"></a>
+<!-- <a href="https://rust-lang.org" target="_blank"><img loading="lazy" src="./badges/runrust.png" alt="Rust!"></a> -->
 <a href="https://catppuccin.com"><img src="./badges/catppuccin.gif" class="hover:-translate-y-1 transform"></a>
 <a href="https://kernel.org" target="_blank"><img loading="lazy" src="./badges/penguins.gif" alt="Powered by Penguins"></a>
 <a href="https://nixos.org/" target="_blank"><img loading="lazy" src="./badges/powered_by_nixos.gif" alt="Powered by NixOS"></a>
-<a href="https://neovim.io"><img src="./badges/made-with-neovim.png"></a>
+<!-- <a href="https://neovim.io"><img src="./badges/made-with-neovim.png"></a> -->
 </td>
 <tr>
 </table>
