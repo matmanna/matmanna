@@ -45,8 +45,8 @@ Since being exposed to computer programming on Scratch a decade ago, I’ve:
 
 ### thanks for stopping by!
    
-<table>
-<th>footnotes for those who care
+<table width="100%">
+<th>footnotes for those who care</th>
 <th>88x31s!</th>
 <tr>
 <td class="footnotes">
@@ -57,7 +57,7 @@ Since being exposed to computer programming on Scratch a decade ago, I’ve:
 <li id="fn-1">esp. trivia, having competed on a TV quizbowl and won 3<sup>rd</sup> at a regional NOSB.<a href="#fnref-1" class="footnote-backref">↩</a></li>
 </ol>
 </td>
-<td width="180px">
+<td width="210px">
 <a href="https://hackclub.com"><img src="./badges/hackclub.png" class="hover:-translate-y-1 transform"></a>
 <a href="https://archive.org"><img src="./badges/archive.gif" class="hover:-translate-y-1 transform"></a>
 <a href="https://yesterweb.org/no-to-web3/"><img src="./badges/roly-saynotoweb3.gif" class="hover:-translate-y-1 transform"></a>
