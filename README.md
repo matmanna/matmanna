@@ -49,7 +49,7 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
 <ol>
 <li id="fn-1">competitive environments fostered my "ship early" mentality<a href="#fnref-1" class="footnote-backref">↩</a></li>
 <li id="fn-1">i normally go by <code>@matmanna</code> (or <code>@mat</code>) but please <a href="https://matmanna.dev/verify">verify</a> <a href="#fnref-1" class="footnote-backref">↩</a></li>
-<li id="fn-1">i see my projects as tools (not products) meant to serve. (what do i  <a href="https://matmanna.dev/use"></a><a href="#fnref-1" class="footnote-backref">↩</a>?)</li>
+<li id="fn-1">i see my projects as tools meant to serve (what do i  <a href="https://matmanna.dev/use">use</a><a href="#fnref-1" class="footnote-backref">↩</a>?)</li>
 <li id="fn-4">esp. trivia, having competed on a TV quizbowl and won 3<sup>rd</sup> at a regional NOSB.<a href="#fnref-4" class="footnote-backref">↩</a></li>
 </ol>
 </td>
