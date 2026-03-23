@@ -23,7 +23,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 - reverse-engineering electric and bass guitar amplifiers to build:
   - LtAmp.py: a Python [library](https://pypi.org/p/ltamp) for interacting with supported amplifiers
   - The Twist: an augmentation module with features including remote control and preset playlists
-- contributing code and volunteer technical support for [Hack Club](https://hack.club?uwu) programs incl. [Hackatime](https://hackati.me) and [HCTG](https://game.hackclub.com).
+- contributing code and technical support for [Hack Club](https://hack.club?uwu) programs incl. [Hackatime](https://hackati.me) and [HCTG](https://game.hackclub.com).
 
 ### formative `:experiences`
 
