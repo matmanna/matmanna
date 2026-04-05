@@ -43,7 +43,7 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
    
 <table width="100%">
 <th>Thanks for stopping by!<sub> footnotes and <code>:extra</code> things for those who care</sub></th>
-<th>88x31s!</th>
+<th>README 88x31s?!</th>
 <tr>
 <td class="footnotes">
 <ol>
