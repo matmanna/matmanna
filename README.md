@@ -40,9 +40,11 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
   <li>Received recognition for Integrity and Sportsmanship within academic competitions.</li>
   <li>Earned ~$1k in grants and prizes for personal projects submitted to Hack Club programs incl. High Seas, Summer of Making, CMD-K, and Magazine.</li></ul>
   </details>
-   
+
+<details><summary>Thanks for stopping by!<sub> footnotes and <code>:extra</code> things for those who care</sub></summary>
+ 
 <table width="100%">
-<th>Thanks for stopping by!<sub> footnotes and <code>:extra</code> things for those who care</sub></th>
+<th></th>
 <th>README 88x31s?!</th>
 <tr>
 <td class="footnotes">
@@ -65,3 +67,5 @@ Since being exposed to computer programming on [Scratch](https://scratch.mit.edu
 </td>
 <tr>
 </table>
+</details>
+  
