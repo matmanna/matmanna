@@ -17,8 +17,10 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <details><summary>Recently, I've been shipping,<sub> (expand for stats!)</sub> but also: </summary>
-  <a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">    <picture>        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">    </picture></a> 
+  
 </details>
+
+<a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">    <picture>        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">    </picture></a> 
 
 - reverse-engineering electric and bass guitar amplifiers to build:
   - LtAmp.py: a Python [library](https://pypi.org/p/ltamp) for interacting with supported amplifiers
