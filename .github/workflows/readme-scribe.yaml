@@ -23,7 +23,7 @@ jobs:
 
       - name: generate readme
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: markscribe -write README.md templates/README.md.tpl
