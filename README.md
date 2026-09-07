@@ -31,10 +31,10 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 #### 📦  My latest projects
 
-- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_
-- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_
-- [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_
-- [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_
+- [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_
+- [`hazmatos`](https://github.com/matmanna/hazmatos) - __
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
