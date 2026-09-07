@@ -18,6 +18,45 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 <details><summary>Recently, I've been shipping,<sub> (expand for stats!)</sub> but also: </summary>
   
+#### 🏗️  The latest repos I've pushed to
+
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(1 day ago)**
+- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 day ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(4 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
+- [`o-fn`](https://github.com/ldnano/o-fn) - _Life-sized industrial boardgame for school & community outreach_ **(3 weeks ago)**
+- [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_ **(3 weeks ago)**
+- [`doctored`](https://github.com/matmanna/doctored) - _🎩 A jekyll theme prioritizing uniqueness, complexity, and sophistication._ **(1 month ago)**
+
+#### 📦  My latest projects
+
+- [`social-graph`](https://github.com/taciturnaxolotl/social-graph) - _graphs go brrr_
+- [`group-me-not`](https://github.com/taciturnaxolotl/group-me-not) - _OSS GroupMe app_
+- [`integrand`](https://github.com/taciturnaxolotl/integrand) - _math snipping extension_
+- [`mycu`](https://github.com/taciturnaxolotl/mycu) - _faster and less aggrevating mycu_
+
+#### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
+
+```text
+💾 Languages:
+unknown                  2h 10m 7s   ████████████░░░░░░░░░░░░░  45.06%
+markdown.mdx             51m 4s      █████░░░░░░░░░░░░░░░░░░░░  17.69%
+Python                   33m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
+JavaScript               28m 2s      ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
+Markdown                 12m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+
+💼 Projects:
+slacker-news             1h 51m 0s   ██████████░░░░░░░░░░░░░░░  39.62%
+psux                     41m 32s     ████░░░░░░░░░░░░░░░░░░░░░  14.82%
+cmpsc-131-ps1-matmanna   29m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+matmanna.dev             25m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+matmanna                 24m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+
+Total: 4 hrs 22 mins
+```
+
+_auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
 </details>
 
 <a href="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&standalone=true" title="Click to view detailed data for each day!">    <picture>        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=dark">        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U07VA44DNBA&timezone=America%2FNew_York&theme=light">    </picture></a> 
