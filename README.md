@@ -20,40 +20,40 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(today)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(today)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 day ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(4 days ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
 - [`o-fn`](https://github.com/ldnano/o-fn) - _Life-sized industrial boardgame for school & community outreach_ **(3 weeks ago)**
 - [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_ **(3 weeks ago)**
-- [`doctored`](https://github.com/matmanna/doctored) - _🎩 A jekyll theme prioritizing uniqueness, complexity, and sophistication._ **(1 month ago)**
 
 #### 📦  My latest projects
 
 - [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_
-- [`hazmatos`](https://github.com/matmanna/hazmatos) - __
+- [`treasurykit`](https://github.com/matmanna/treasurykit) - _🪙 Manage your academic org's finances, membership, and activities._
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown                  2h 10m 7s   ████████████░░░░░░░░░░░░░  45.06%
-markdown.mdx             51m 4s      █████░░░░░░░░░░░░░░░░░░░░  17.69%
-Python                   33m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
-JavaScript               28m 2s      ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
-Markdown                 12m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+unknown                  2h 4m 36s   ████████████░░░░░░░░░░░░░  45.27%
+markdown.mdx             51m 4s      █████░░░░░░░░░░░░░░░░░░░░  18.56%
+Python                   33m 38s     ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+JavaScript               20m 2s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+Markdown                 12m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
 
 💼 Projects:
-slacker-news             1h 51m 0s   ██████████░░░░░░░░░░░░░░░  39.62%
-psux                     41m 32s     ████░░░░░░░░░░░░░░░░░░░░░  14.82%
-cmpsc-131-ps1-matmanna   29m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
-matmanna.dev             25m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
-matmanna                 24m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
+slacker-news             1h 55m 0s   ███████████░░░░░░░░░░░░░░  43.13%
+cmpsc-131-ps1-matmanna   29m 44s     ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
+matmanna.dev             25m 59s     ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+matmanna                 24m 57s     ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+psux                     23m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
 
-Total: 4 hrs 22 mins
+Total: 4 hrs 8 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
