@@ -20,7 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(1 day ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 day ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(2 days ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  2h 15m 58s   ████████████░░░░░░░░░░░░░  44.83%
-Markdown                 1h 7m 7s     ██████░░░░░░░░░░░░░░░░░░░  22.13%
-Python                   33m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
-markdown.mdx             15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
-JavaScript               14m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
+unknown                  2h 30m 45s   ████████████░░░░░░░░░░░░░  46.49%
+Markdown                 1h 11m 19s   ██████░░░░░░░░░░░░░░░░░░░  21.99%
+Python                   33m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.37%
+JavaScript               16m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+markdown.mdx             15m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
 
 💼 Projects:
-matmanna.dev             1h 38m 57s   █████████░░░░░░░░░░░░░░░░  34.16%
-slacker-news             1h 11m 52s   ███████░░░░░░░░░░░░░░░░░░  24.81%
-cmpsc-131-ps1-matmanna   29m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
-matmanna                 24m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
-psux                     18m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+matmanna.dev             1h 55m 30s   ██████████░░░░░░░░░░░░░░░  37.48%
+slacker-news             1h 11m 52s   ██████░░░░░░░░░░░░░░░░░░░  23.32%
+cmpsc-131-ps1-matmanna   29m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
+matmanna                 26m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.74%
+psux                     18m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 
-Total: 4 hrs 32 mins
+Total: 4 hrs 52 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
