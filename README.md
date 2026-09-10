@@ -20,14 +20,14 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(2 days ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 days ago)**
-- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(3 days ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(6 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from the Hack Club Slack_ **(3 days ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 days ago)**
+- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(4 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
 - [`o-fn`](https://github.com/ldnano/o-fn) - _Life-sized industrial boardgame for school & community outreach_ **(3 weeks ago)**
-- [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_ **(3 weeks ago)**
+- [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_ **(4 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  3h 25m 11s   ███████████░░░░░░░░░░░░░░  41.22%
-Markdown                 1h 25m 37s   █████░░░░░░░░░░░░░░░░░░░░  17.20%
-JavaScript               1h 2m 6s     ████░░░░░░░░░░░░░░░░░░░░░  12.48%
-Python                   33m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
-TypeScript               32m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+unknown                  3h 29m 11s   ███████████░░░░░░░░░░░░░░  40.86%
+Markdown                 1h 25m 37s   █████░░░░░░░░░░░░░░░░░░░░  16.73%
+JavaScript               1h 10m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.69%
+TypeScript               34m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+Python                   33m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.57%
 
 💼 Projects:
-matmanna.dev             2h 8m 56s    ████████░░░░░░░░░░░░░░░░░  28.65%
-hacklas                  1h 28m 13s   █████░░░░░░░░░░░░░░░░░░░░  19.60%
-slacker-news             1h 5m 19s    ████░░░░░░░░░░░░░░░░░░░░░  14.51%
-matmanna                 37m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
-cmpsc-131-ps1-matmanna   29m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+matmanna.dev             2h 10m 56s   ███████░░░░░░░░░░░░░░░░░░  27.65%
+hacklas                  1h 39m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.05%
+slacker-news             1h 7m 19s    ████░░░░░░░░░░░░░░░░░░░░░  14.22%
+matmanna                 37m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
+cmpsc-131-ps1-matmanna   29m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
 
-Total: 6 hrs 55 mins
+Total: 7 hrs 9 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
