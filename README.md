@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  3h 46m 51s   █████████░░░░░░░░░░░░░░░░  34.05%
-Python                   2h 3m 59s    █████░░░░░░░░░░░░░░░░░░░░  18.61%
-JavaScript               1h 49m 56s   █████░░░░░░░░░░░░░░░░░░░░  16.50%
-Markdown                 1h 22m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.46%
-Shell                    40m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+unknown                  3h 58m 8s    █████████░░░░░░░░░░░░░░░░  33.80%
+JavaScript               2h 11m 42s   █████░░░░░░░░░░░░░░░░░░░░  18.69%
+Python                   2h 3m 59s    █████░░░░░░░░░░░░░░░░░░░░  17.60%
+Markdown                 1h 22m 59s   ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+Shell                    40m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
 
 💼 Projects:
-cmpsc-131-ps2-matmanna   1h 53m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.95%
-hacklas                  1h 48m 13s   █████░░░░░░░░░░░░░░░░░░░░  18.09%
-matmanna.dev             1h 46m 57s   █████░░░░░░░░░░░░░░░░░░░░  17.88%
-slacker-news             1h 17m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.95%
-indigestion              46m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
+cmpsc-131-ps2-matmanna   1h 53m 19s   █████░░░░░░░░░░░░░░░░░░░░  17.88%
+slacker-news             1h 53m 3s    █████░░░░░░░░░░░░░░░░░░░░  17.84%
+hacklas                  1h 48m 13s   █████░░░░░░░░░░░░░░░░░░░░  17.08%
+matmanna.dev             1h 46m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.88%
+indigestion              46m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
 
-Total: 9 hrs 26 mins
+Total: 10 hrs 2 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
