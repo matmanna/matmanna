@@ -20,8 +20,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 day ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  4h 15m 46s   █████████░░░░░░░░░░░░░░░░  35.54%
-JavaScript               2h 48m 56s   ██████░░░░░░░░░░░░░░░░░░░  23.48%
-Python                   2h 6m 14s    █████░░░░░░░░░░░░░░░░░░░░  17.54%
-TypeScript               38m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
-Shell                    33m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+unknown                  4h 19m 17s   █████████░░░░░░░░░░░░░░░░  35.37%
+JavaScript               2h 58m 56s   ███████░░░░░░░░░░░░░░░░░░  24.41%
+Python                   2h 6m 14s    █████░░░░░░░░░░░░░░░░░░░░  17.22%
+TypeScript               38m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
+Shell                    33m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
 
 💼 Projects:
-slacker-news             2h 40m 18s   ███████░░░░░░░░░░░░░░░░░░  24.78%
-hacklas                  2h 3m 54s    █████░░░░░░░░░░░░░░░░░░░░  19.15%
-cmpsc-131-ps2-matmanna   1h 55m 34s   █████░░░░░░░░░░░░░░░░░░░░  17.86%
-indigestion              1h 2m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
-psux                     46m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
+slacker-news             2h 49m 49s   ███████░░░░░░░░░░░░░░░░░░  25.71%
+hacklas                  2h 7m 54s    █████░░░░░░░░░░░░░░░░░░░░  19.37%
+cmpsc-131-ps2-matmanna   1h 55m 34s   █████░░░░░░░░░░░░░░░░░░░░  17.50%
+indigestion              1h 2m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
+psux                     46m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
 
-Total: 10 hrs 9 mins
+Total: 10 hrs 20 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
