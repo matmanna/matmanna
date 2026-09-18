@@ -20,9 +20,9 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(today)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(today)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(1 week ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 weeks ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  3h 46m 50s   ███████████░░░░░░░░░░░░░░  40.50%
-JavaScript               2h 4m 58s    ██████░░░░░░░░░░░░░░░░░░░  22.31%
-Python                   1h 55m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.70%
-MDX                      26m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
-Astro                    17m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
+unknown                  4h 2m 12s    ███████████░░░░░░░░░░░░░░  41.35%
+JavaScript               2h 8m 58s    ██████░░░░░░░░░░░░░░░░░░░  22.02%
+Python                   1h 55m 57s   █████░░░░░░░░░░░░░░░░░░░░  19.80%
+MDX                      26m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
+Astro                    17m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
 💼 Projects:
-slacker-news             2h 56m 56s   █████████░░░░░░░░░░░░░░░░  34.29%
-cmpsc-131-ps2-matmanna   1h 55m 34s   ██████░░░░░░░░░░░░░░░░░░░  22.40%
-indigestion              1h 0m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-hacklas                  46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-matmanna                 45m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+slacker-news             3h 5m 1s     █████████░░░░░░░░░░░░░░░░  34.18%
+cmpsc-131-ps2-matmanna   1h 55m 34s   ██████░░░░░░░░░░░░░░░░░░░  21.35%
+indigestion              1h 0m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
+matmanna                 51m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.50%
+hacklas                  46m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
 
-Total: 8 hrs 21 mins
+Total: 8 hrs 43 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
