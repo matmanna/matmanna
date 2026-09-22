@@ -20,6 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 day ago)**
 - [`nestegg`](https://github.com/matmanna/nestegg) - _Proactive, observable, and accessible personal budgeting tool crafted with age-focused interfaces_ **(2 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(4 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
@@ -27,7 +28,6 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(2 weeks ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 weeks ago)**
-- [`indigest`](https://github.com/hackclub/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  4h 39m 12s   ███████████░░░░░░░░░░░░░░  43.33%
-Python                   2h 5m 43s    █████░░░░░░░░░░░░░░░░░░░░  19.51%
-JavaScript               1h 17m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  11.95%
-TypeScript               1h 11m 28s   ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
-Shell                    42m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
+unknown                  4h 24m 22s   ███████████░░░░░░░░░░░░░░  43.93%
+Python                   2h 5m 43s    ██████░░░░░░░░░░░░░░░░░░░  20.89%
+TypeScript               1h 4m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+JavaScript               55m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  9.27%
+Shell                    42m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
 
 💼 Projects:
-steelhacks-2026          2h 29m 14s   ███████░░░░░░░░░░░░░░░░░░  25.81%
-cmpsc-131-ps3-matmanna   2h 5m 58s    ██████░░░░░░░░░░░░░░░░░░░  21.78%
-matmanna                 1h 32m 9s    ████░░░░░░░░░░░░░░░░░░░░░  15.94%
-slacker-news             1h 12m 16s   ████░░░░░░░░░░░░░░░░░░░░░  12.50%
-hacklas                  48m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
+steelhacks-2026          2h 29m 14s   ███████░░░░░░░░░░░░░░░░░░  27.47%
+cmpsc-131-ps3-matmanna   2h 5m 58s    ██████░░░░░░░░░░░░░░░░░░░  23.18%
+matmanna                 1h 29m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
+slacker-news             1h 0m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+hacklas                  35m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 
-Total: 9 hrs 18 mins
+Total: 8 hrs 51 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
