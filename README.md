@@ -21,7 +21,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 #### 🏗️  The latest repos I've pushed to
 
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
-- [`nestegg`](https://github.com/matmanna/nestegg) - _Proactive, observable, and accessible personal budgeting tool crafted with age-focused interfaces_ **(3 days ago)**
+- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(3 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
@@ -31,7 +31,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 #### 📦  My latest projects
 
-- [`nestegg`](https://github.com/matmanna/nestegg) - _Proactive, observable, and accessible personal budgeting tool crafted with age-focused interfaces_
+- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._
 - [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  5h 0m 56s    ████████████░░░░░░░░░░░░░  45.04%
-Python                   2h 15m 33s   ██████░░░░░░░░░░░░░░░░░░░  20.29%
-TypeScript               1h 9m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
-JavaScript               57m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-Shell                    55m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
+unknown                  4h 25m 21s   ████████████░░░░░░░░░░░░░  45.31%
+Python                   2h 13m 33s   ██████░░░░░░░░░░░░░░░░░░░  22.81%
+TypeScript               1h 5m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
+Shell                    55m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
+JavaScript               47m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
 
 💼 Projects:
-steelhacks-2026          2h 32m 30s   ███████░░░░░░░░░░░░░░░░░░  25.46%
-cmpsc-131-ps3-matmanna   2h 5m 58s    ██████░░░░░░░░░░░░░░░░░░░  21.03%
-matmanna                 1h 41m 57s   █████░░░░░░░░░░░░░░░░░░░░  17.02%
-slacker-news             1h 0m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  10.17%
-hacklas                  47m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.96%
+steelhacks-2026          2h 32m 30s   ████████░░░░░░░░░░░░░░░░░  29.09%
+cmpsc-131-ps3-matmanna   2h 5m 58s    ███████░░░░░░░░░░░░░░░░░░  24.03%
+matmanna                 1h 32m 48s   █████░░░░░░░░░░░░░░░░░░░░  17.70%
+hacklas                  29m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+isabelle                 25m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
 
-Total: 9 hrs 36 mins
+Total: 8 hrs 28 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
