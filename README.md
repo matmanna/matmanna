@@ -20,7 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(today)**
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(3 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  4h 29m 34s   ████████████░░░░░░░░░░░░░  45.70%
-Python                   2h 13m 33s   ██████░░░░░░░░░░░░░░░░░░░  22.64%
-TypeScript               1h 5m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  11.12%
-Shell                    55m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-JavaScript               47m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
+unknown                  4h 41m 55s   ████████████░░░░░░░░░░░░░  45.60%
+Python                   2h 13m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.60%
+TypeScript               1h 13m 3s    ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
+Shell                    58m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
+JavaScript               49m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
 
 💼 Projects:
-steelhacks-2026          2h 32m 30s   ████████░░░░░░░░░░░░░░░░░  28.86%
-cmpsc-131-ps3-matmanna   2h 5m 58s    ██████░░░░░░░░░░░░░░░░░░░  23.84%
-matmanna                 1h 37m 1s    █████░░░░░░░░░░░░░░░░░░░░  18.36%
-hacklas                  29m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-isabelle                 25m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+steelhacks-2026          2h 32m 30s   ███████░░░░░░░░░░░░░░░░░░  27.53%
+cmpsc-131-ps3-matmanna   2h 5m 58s    ██████░░░░░░░░░░░░░░░░░░░  22.74%
+matmanna                 1h 39m 1s    █████░░░░░░░░░░░░░░░░░░░░  17.88%
+hacklas                  43m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+isabelle                 25m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
 
-Total: 8 hrs 32 mins
+Total: 8 hrs 53 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
