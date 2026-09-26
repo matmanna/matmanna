@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  5h 11m 14s   ███████████░░░░░░░░░░░░░░  41.55%
-Python                   2h 30m 0s    ██████░░░░░░░░░░░░░░░░░░░  20.03%
-TypeScript               1h 44m 44s   ████░░░░░░░░░░░░░░░░░░░░░  13.98%
-Shell                    1h 32m 55s   ████░░░░░░░░░░░░░░░░░░░░░  12.41%
-JavaScript               51m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+unknown                  5h 11m 23s   ████████████░░░░░░░░░░░░░  45.25%
+TypeScript               1h 44m 44s   ████░░░░░░░░░░░░░░░░░░░░░  15.22%
+Python                   1h 41m 14s   ████░░░░░░░░░░░░░░░░░░░░░  14.71%
+Shell                    1h 32m 55s   ████░░░░░░░░░░░░░░░░░░░░░  13.50%
+JavaScript               45m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.67%
 
 💼 Projects:
-steelhacks-2026          2h 32m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.45%
-cmpsc-131-ps3-matmanna   2h 5m 58s    █████░░░░░░░░░░░░░░░░░░░░  19.37%
-matmanna                 1h 46m 45s   █████░░░░░░░░░░░░░░░░░░░░  16.42%
-hacklas                  1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-isabelle                 36m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+steelhacks-2026          2h 32m 30s   ███████░░░░░░░░░░░░░░░░░░  25.93%
+matmanna                 1h 38m 30s   █████░░░░░░░░░░░░░░░░░░░░  16.75%
+hacklas                  1h 15m 21s   ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+cmpsc-131-ps4-matmanna   1h 15m 19s   ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+isabelle                 36m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
 
-Total: 10 hrs 19 mins
+Total: 9 hrs 6 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
