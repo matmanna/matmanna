@@ -20,18 +20,18 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`HouseHack`](https://github.com/matmanna/HouseHack) - _Entry for the AI Horizons 2026 AI for Housing Hackathon_ **(today)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(2 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
-- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(6 days ago)**
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Entry for the AI Horizons 2026 AI for Housing Hackathon_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
+- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(3 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(4 days ago)**
+- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(1 week ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
 - [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
-- [`HouseHack`](https://github.com/matmanna/HouseHack) - _Entry for the AI Horizons 2026 AI for Housing Hackathon_
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Entry for the AI Horizons 2026 AI for Housing Hackathon_
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._
 - [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  5h 45m 19s   ████████████░░░░░░░░░░░░░  46.27%
-Shell                    1h 46m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.33%
-TypeScript               1h 44m 44s   ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-Python                   1h 41m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.57%
-JavaScript               53m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+unknown                  5h 49m 54s   ████████████░░░░░░░░░░░░░  46.35%
+Shell                    1h 49m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.44%
+TypeScript               1h 44m 44s   ████░░░░░░░░░░░░░░░░░░░░░  13.87%
+Python                   1h 41m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.41%
+JavaScript               55m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
 
 💼 Projects:
-steelhacks-2026          2h 32m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.71%
-matmanna                 1h 54m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.80%
-hacklas                  1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-cmpsc-131-ps4-matmanna   1h 15m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
-isabelle                 36m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
+steelhacks-2026          2h 32m 30s   ██████░░░░░░░░░░░░░░░░░░░  23.40%
+matmanna                 1h 54m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.56%
+hacklas                  1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+cmpsc-131-ps4-matmanna   1h 15m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+HouseHack                43m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
 
-Total: 9 hrs 58 mins
+Total: 10 hrs 6 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
