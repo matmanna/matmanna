@@ -20,18 +20,18 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the build chain in the burgh - AI Horizons 2026 Hackathon_ **(today)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
-- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(3 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(4 days ago)**
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
+- [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(4 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(5 days ago)**
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(1 week ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
-- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(2 weeks ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 weeks ago)**
+- [`dns`](https://github.com/hackclub/dns) - _🕹 Manage Hack Club's DNS through a GitHub repository_ **(3 weeks ago)**
 
 #### 📦  My latest projects
 
-- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the build chain in the burgh - AI Horizons 2026 Hackathon_
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._
 - [`hackatime-pebble`](https://github.com/matmanna/hackatime-pebble) - _track your   ̶u̶n̶h̶e̶a̶l̶t̶h̶y̶ ̶b̶e̶h̶a̶v̶i̶o̶r̶s̶ coding stats on a smartwatch :3_
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  5h 25m 59s   ███████████░░░░░░░░░░░░░░  43.74%
-TypeScript               1h 51m 48s   ████░░░░░░░░░░░░░░░░░░░░░  15.00%
-Shell                    1h 51m 9s    ████░░░░░░░░░░░░░░░░░░░░░  14.92%
-Python                   1h 41m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.58%
-JavaScript               52m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+unknown                  5h 29m 59s   ████████████░░░░░░░░░░░░░  44.04%
+TypeScript               1h 51m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.92%
+Shell                    1h 51m 9s    ████░░░░░░░░░░░░░░░░░░░░░  14.84%
+Python                   1h 41m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.51%
+JavaScript               52m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
 
 💼 Projects:
-matmanna                 1h 47m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.61%
-steelhacks-2026          1h 44m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.14%
-HouseHack                1h 20m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.50%
-hacklas                  1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
-cmpsc-131-ps4-matmanna   1h 15m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
+matmanna                 1h 49m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.81%
+steelhacks-2026          1h 44m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.04%
+HouseHack                1h 22m 45s   ████░░░░░░░░░░░░░░░░░░░░░  12.73%
+hacklas                  1h 15m 21s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+cmpsc-131-ps4-matmanna   1h 15m 19s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
 
-Total: 10 hrs 3 mins
+Total: 10 hrs 7 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
