@@ -20,8 +20,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(today)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(2 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(5 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(6 days ago)**
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  4h 10m 55s   ████████████░░░░░░░░░░░░░  45.83%
-Python                   1h 41m 14s   █████░░░░░░░░░░░░░░░░░░░░  18.49%
-Shell                    1h 10m 35s   ████░░░░░░░░░░░░░░░░░░░░░  12.89%
-TypeScript               51m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
-JavaScript               44m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+unknown                  4h 20m 40s   ████████████░░░░░░░░░░░░░  45.16%
+Python                   1h 41m 14s   █████░░░░░░░░░░░░░░░░░░░░  17.54%
+Shell                    1h 12m 35s   ████░░░░░░░░░░░░░░░░░░░░░  12.58%
+JavaScript               56m 14s      ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
+TypeScript               51m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
 
 💼 Projects:
-HouseHack                1h 28m 53s   █████░░░░░░░░░░░░░░░░░░░░  18.07%
-matmanna                 1h 20m 27s   █████░░░░░░░░░░░░░░░░░░░░  16.36%
-hacklas                  1h 17m 21s   ████░░░░░░░░░░░░░░░░░░░░░  15.73%
-cmpsc-131-ps4-matmanna   1h 15m 19s   ████░░░░░░░░░░░░░░░░░░░░░  15.31%
-isabelle                 33m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+HouseHack                1h 28m 53s   █████░░░░░░░░░░░░░░░░░░░░  17.14%
+matmanna                 1h 20m 27s   ████░░░░░░░░░░░░░░░░░░░░░  15.51%
+hacklas                  1h 19m 21s   ████░░░░░░░░░░░░░░░░░░░░░  15.30%
+cmpsc-131-ps4-matmanna   1h 15m 19s   ████░░░░░░░░░░░░░░░░░░░░░  14.52%
+slacker-news             44m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
 
-Total: 7 hrs 37 mins
+Total: 8 hrs 0 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
