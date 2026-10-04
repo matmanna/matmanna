@@ -20,13 +20,13 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(today)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(6 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 day ago)**
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 week ago)**
 - [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(1 week ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 week ago)**
-- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(1 week ago)**
+- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._ **(2 weeks ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        4h 2m 26s    ███████████████░░░░░░░░░░  58.71%
-JavaScript     1h 0m 7s     ████░░░░░░░░░░░░░░░░░░░░░  14.56%
-Shell          53m 57s      ████░░░░░░░░░░░░░░░░░░░░░  13.07%
-Python         21m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
-Astro          17m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+unknown        4h 19m 27s   ████████████████░░░░░░░░░  60.07%
+JavaScript     1h 2m 7s     ████░░░░░░░░░░░░░░░░░░░░░  14.38%
+Shell          53m 57s      ████░░░░░░░░░░░░░░░░░░░░░  12.49%
+Python         21m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+Astro          17m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
 
 💼 Projects:
-slacker-news   1h 39m 56s   ███████░░░░░░░░░░░░░░░░░░  25.34%
-HouseHack      1h 28m 53s   ██████░░░░░░░░░░░░░░░░░░░  22.54%
-matmanna       1h 7m 29s    █████░░░░░░░░░░░░░░░░░░░░  17.11%
-matmanna.dev   26m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-hacklas        26m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+slacker-news   1h 50m 52s   ███████░░░░░░░░░░░░░░░░░░  26.95%
+HouseHack      1h 28m 53s   ██████░░░░░░░░░░░░░░░░░░░  21.61%
+matmanna       1h 13m 34s   █████░░░░░░░░░░░░░░░░░░░░  17.88%
+matmanna.dev   26m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
+hacklas        26m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
 
-Total: 6 hrs 19 mins
+Total: 6 hrs 38 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
