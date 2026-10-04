@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        3h 31m 37s   █████████████████░░░░░░░░  65.04%
-JavaScript     50m 7s       ████░░░░░░░░░░░░░░░░░░░░░  15.40%
-Shell          33m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
-Astro          17m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-Markdown       10m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+TypeScript     5h 59m 17s   █████████░░░░░░░░░░░░░░░░  35.86%
+unknown        3h 38m 26s   ██████░░░░░░░░░░░░░░░░░░░  21.80%
+Astro          2h 21m 30s   ████░░░░░░░░░░░░░░░░░░░░░  14.12%
+Markdown       1h 25m 13s   ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+JavaScript     1h 19m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
 
 💼 Projects:
-slacker-news   1h 48m 29s   █████████░░░░░░░░░░░░░░░░  34.77%
-matmanna       58m 48s      █████░░░░░░░░░░░░░░░░░░░░  18.85%
-HouseHack      34m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-matmanna.dev   26m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
-hacklas        26m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+projects       10h 9m 29s   ████████████████░░░░░░░░░  63.55%
+slacker-news   1h 48m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  11.31%
+matmanna.dev   1h 1m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
+matmanna       58m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.13%
+HouseHack      34m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
 
-Total: 5 hrs 6 mins
+Total: 14 hrs 9 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
