@@ -20,10 +20,10 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 day ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 days ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 week ago)**
 - [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(1 week ago)**
 - [`draw-dino`](https://github.com/hackclub/draw-dino) - _Hack Club's workshop on submitting PRs on GitHub_ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-TypeScript     4h 48m 14s   ████████░░░░░░░░░░░░░░░░░  30.33%
-unknown        4h 9m 0s     ███████░░░░░░░░░░░░░░░░░░  26.20%
-Astro          2h 21m 30s   ████░░░░░░░░░░░░░░░░░░░░░  14.89%
-JavaScript     1h 9m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.26%
-Markdown       59m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+unknown        3h 59m 35s   ████████░░░░░░░░░░░░░░░░░  28.23%
+TypeScript     3h 23m 50s   ███████░░░░░░░░░░░░░░░░░░  24.02%
+Astro          2h 10m 38s   ████░░░░░░░░░░░░░░░░░░░░░  15.39%
+JavaScript     1h 5m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
+Markdown       59m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
 
 💼 Projects:
-projects       8h 24m 25s   ██████████████░░░░░░░░░░░  55.28%
-slacker-news   1h 46m 29s   ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
-matmanna       1h 35m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
-matmanna.dev   1h 2m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-marmalade-v2   35m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+projects       6h 45m 45s   █████████████░░░░░░░░░░░░  49.75%
+matmanna       1h 49m 51s   ████░░░░░░░░░░░░░░░░░░░░░  13.47%
+slacker-news   1h 43m 44s   ████░░░░░░░░░░░░░░░░░░░░░  12.72%
+matmanna.dev   1h 2m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
+marmalade-v2   35m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
 
-Total: 13 hrs 20 mins
+Total: 11 hrs 57 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
