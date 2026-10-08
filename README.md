@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             10h 25m 5s   ████████████████░░░░░░░░░  61.86%
-TypeScript          1h 25m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  8.47%
-Markdown            1h 14m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
-Nix                 1h 2m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
-Astro               53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+unknown             10h 37m 7s   ████████████████░░░░░░░░░  60.77%
+TypeScript          1h 25m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
+Markdown            1h 14m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+Nix                 1h 2m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
+Astro               53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
 
 💼 Projects:
-projects            3h 39m 47s   ██████░░░░░░░░░░░░░░░░░░░  21.63%
-matmanna.dev        2h 26m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.37%
-matmanna            2h 14m 35s   ████░░░░░░░░░░░░░░░░░░░░░  13.25%
-selfhost            2h 10m 42s   ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-improve-invoicing   2h 8m 45s    ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+projects            3h 41m 47s   ██████░░░░░░░░░░░░░░░░░░░  21.01%
+matmanna.dev        2h 26m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.83%
+matmanna            2h 20m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
+selfhost            2h 10m 42s   ████░░░░░░░░░░░░░░░░░░░░░  12.38%
+improve-invoicing   2h 8m 45s    ████░░░░░░░░░░░░░░░░░░░░░  12.20%
 
-Total: 15 hrs 13 mins
+Total: 15 hrs 49 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
