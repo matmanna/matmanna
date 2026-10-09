@@ -20,14 +20,14 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 day ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(2 days ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(4 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(3 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(5 days ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 week ago)**
-- [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(1 week ago)**
+- [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             10h 37m 7s   ████████████████░░░░░░░░░  60.77%
-TypeScript          1h 25m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
-Markdown            1h 14m 10s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-Nix                 1h 2m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
-Astro               53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+unknown             10h 42m 27s   ████████████████░░░░░░░░░  60.45%
+TypeScript          1h 25m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+Markdown            1h 14m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
+Nix                 1h 2m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
+Astro               53m 31s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
 
 💼 Projects:
-projects            3h 41m 47s   ██████░░░░░░░░░░░░░░░░░░░  21.01%
-matmanna.dev        2h 26m 0s    ████░░░░░░░░░░░░░░░░░░░░░  13.83%
-matmanna            2h 20m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-selfhost            2h 10m 42s   ████░░░░░░░░░░░░░░░░░░░░░  12.38%
-improve-invoicing   2h 8m 45s    ████░░░░░░░░░░░░░░░░░░░░░  12.20%
+projects            3h 41m 47s    ██████░░░░░░░░░░░░░░░░░░░  20.73%
+matmanna.dev        2h 26m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.65%
+matmanna            2h 20m 48s    ████░░░░░░░░░░░░░░░░░░░░░  13.16%
+selfhost            2h 14m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.53%
+improve-invoicing   2h 8m 45s     ████░░░░░░░░░░░░░░░░░░░░░  12.03%
 
-Total: 15 hrs 49 mins
+Total: 16 hrs 3 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
