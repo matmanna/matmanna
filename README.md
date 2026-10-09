@@ -20,9 +20,9 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 day ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(3 days ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(5 days ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             10h 42m 27s   ████████████████░░░░░░░░░  60.45%
-TypeScript          1h 25m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-Markdown            1h 14m 10s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.98%
-Nix                 1h 2m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
-Astro               53m 31s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+unknown             10h 55m 58s   ████████████████░░░░░░░░░  62.18%
+TypeScript          1h 21m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+Nix                 1h 2m 25s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+Markdown            56m 58s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
+Astro               53m 31s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 
 💼 Projects:
-projects            3h 41m 47s    ██████░░░░░░░░░░░░░░░░░░░  20.73%
-matmanna.dev        2h 26m 0s     ████░░░░░░░░░░░░░░░░░░░░░  13.65%
-matmanna            2h 20m 48s    ████░░░░░░░░░░░░░░░░░░░░░  13.16%
-selfhost            2h 14m 2s     ████░░░░░░░░░░░░░░░░░░░░░  12.53%
-improve-invoicing   2h 8m 45s     ████░░░░░░░░░░░░░░░░░░░░░  12.03%
+projects            3h 23m 2s     █████░░░░░░░░░░░░░░░░░░░░  19.04%
+selfhost            2h 40m 29s    ████░░░░░░░░░░░░░░░░░░░░░  15.05%
+matmanna.dev        2h 18m 43s    ████░░░░░░░░░░░░░░░░░░░░░  13.01%
+matmanna            2h 12m 51s    ████░░░░░░░░░░░░░░░░░░░░░  12.46%
+improve-invoicing   2h 8m 45s     ████░░░░░░░░░░░░░░░░░░░░░  12.07%
 
-Total: 16 hrs 3 mins
+Total: 16 hrs 1 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
