@@ -21,10 +21,10 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 #### 🏗️  The latest repos I've pushed to
 
 - [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 day ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(4 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(4 days ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(4 days ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(6 days ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 week ago)**
 - [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(2 weeks ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             13h 22m 7s   █████████████████░░░░░░░░  66.43%
-TypeScript          1h 21m 31s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-Nix                 1h 8m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-Markdown            56m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
-Astro               53m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
+unknown             13h 54m 19s   ████████████████░░░░░░░░░  63.80%
+Python              2h 38m 39s    ████░░░░░░░░░░░░░░░░░░░░░  12.13%
+Nix                 1h 8m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.26%
+Astro               53m 31s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+TypeScript          50m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
 
 💼 Projects:
-selfhost            5h 5m 57s    ███████░░░░░░░░░░░░░░░░░░  25.20%
-projects            3h 23m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.72%
-matmanna.dev        2h 18m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
-matmanna            2h 15m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
-improve-invoicing   2h 8m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
+selfhost            5h 39m 53s    ███████░░░░░░░░░░░░░░░░░░  25.72%
+projects            2h 40m 48s    ████░░░░░░░░░░░░░░░░░░░░░  12.17%
+matmanna.dev        2h 16m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+matmanna            2h 14m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+improve-invoicing   2h 8m 45s     ███░░░░░░░░░░░░░░░░░░░░░░  9.74%
 
-Total: 18 hrs 28 mins
+Total: 20 hrs 6 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
