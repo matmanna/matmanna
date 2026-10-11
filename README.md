@@ -20,13 +20,13 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(today)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(4 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(4 days ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(6 days ago)**
-- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(1 week ago)**
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(4 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(5 days ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(5 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
+- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(2 weeks ago)**
 - [`isabelle`](https://github.com/hackclub/isabelle) - _Bringing Hack Club events to you_ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  14h 38m 12s   █████████████████░░░░░░░░  64.26%
-Python                   2h 41m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
-Nix                      1h 8m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-TypeScript               56m 8s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-Markdown                 54m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.99%
+unknown                  14h 44m 46s   █████████████████░░░░░░░░  64.43%
+Python                   2h 41m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
+Nix                      1h 8m 44s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+TypeScript               56m 8s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+Markdown                 54m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
 
 💼 Projects:
-selfhost                 5h 51m 41s    ███████░░░░░░░░░░░░░░░░░░  25.39%
-projects                 2h 40m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-matmanna.dev             2h 31m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-matmanna                 2h 19m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
-cmpsc-131-ps5-matmanna   2h 9m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
+selfhost                 5h 51m 41s    ███████░░░░░░░░░░░░░░░░░░  25.27%
+projects                 2h 40m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
+matmanna.dev             2h 31m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
+matmanna                 2h 19m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+cmpsc-131-ps5-matmanna   2h 9m 28s     ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
 
-Total: 21 hrs 1 mins
+Total: 21 hrs 7 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
