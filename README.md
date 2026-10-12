@@ -20,7 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 day ago)**
+- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(today)**
 - [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  20h 9m 37s    ███████████████░░░░░░░░░░  57.32%
-Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  14.10%
-Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
-TypeScript               2h 34m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-Markdown                 1h 50m 47s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
+unknown                  20h 27m 52s   ███████████████░░░░░░░░░░  57.61%
+Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.97%
+Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+TypeScript               2h 34m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
+Markdown                 1h 53m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
 
 💼 Projects:
-matmanna                 12h 24m 31s   █████████░░░░░░░░░░░░░░░░  34.61%
-selfhost                 5h 51m 41s    █████░░░░░░░░░░░░░░░░░░░░  16.35%
-callcoach                5h 50m 18s    █████░░░░░░░░░░░░░░░░░░░░  16.29%
-cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
-improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+matmanna                 12h 27m 8s    █████████░░░░░░░░░░░░░░░░  34.34%
+callcoach                6h 5m 57s     █████░░░░░░░░░░░░░░░░░░░░  16.82%
+selfhost                 5h 51m 41s    █████░░░░░░░░░░░░░░░░░░░░  16.16%
+cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
+improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
 
-Total: 23 hrs 58 mins
+Total: 24 hrs 19 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
