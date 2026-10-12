@@ -20,12 +20,12 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(today)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 day ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(4 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(5 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(5 days ago)**
+- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 day ago)**
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(6 days ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(6 days ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(2 weeks ago)**
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  18h 50m 11s   ██████████████░░░░░░░░░░░  53.96%
-Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  14.21%
-TypeScript               3h 1m 9s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
-Markdown                 2h 4m 53s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+unknown                  20h 16m 1s    ██████████████░░░░░░░░░░░  55.45%
+Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.57%
+TypeScript               3h 7m 39s     ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
+Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+Markdown                 2h 10m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 
 💼 Projects:
-matmanna                 13h 8m 35s    ██████████░░░░░░░░░░░░░░░  36.40%
-selfhost                 5h 51m 41s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
-callcoach                4h 23m 51s    ████░░░░░░░░░░░░░░░░░░░░░  12.18%
-matmanna.dev             2h 17m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
-cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+matmanna                 13h 15m 39s   █████████░░░░░░░░░░░░░░░░  35.05%
+selfhost                 5h 51m 41s    ████░░░░░░░░░░░░░░░░░░░░░  15.49%
+callcoach                5h 50m 18s    ████░░░░░░░░░░░░░░░░░░░░░  15.43%
+matmanna.dev             2h 17m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
 
-Total: 23 hrs 35 mins
+Total: 25 hrs 3 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
