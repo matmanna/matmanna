@@ -20,13 +20,13 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(today)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(6 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(6 days ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
+- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 day ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 day ago)**
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(3 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(6 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(6 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 week ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  20h 27m 52s   ███████████████░░░░░░░░░░  57.61%
-Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.97%
-Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
-TypeScript               2h 34m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.23%
-Markdown                 1h 53m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+unknown                  21h 0m 25s    ███████████████░░░░░░░░░░  57.84%
+Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.66%
+Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+TypeScript               2h 38m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+Markdown                 1h 53m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
 
 💼 Projects:
-matmanna                 12h 27m 8s    █████████░░░░░░░░░░░░░░░░  34.34%
-callcoach                6h 5m 57s     █████░░░░░░░░░░░░░░░░░░░░  16.82%
-selfhost                 5h 51m 41s    █████░░░░░░░░░░░░░░░░░░░░  16.16%
-cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
-improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+matmanna                 12h 29m 14s   █████████░░░░░░░░░░░░░░░░  33.48%
+callcoach                6h 21m 41s    █████░░░░░░░░░░░░░░░░░░░░  17.06%
+selfhost                 5h 51m 41s    ████░░░░░░░░░░░░░░░░░░░░░  15.72%
+cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
+improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 
-Total: 24 hrs 19 mins
+Total: 25 hrs 2 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
