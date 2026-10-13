@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  21h 0m 25s    ███████████████░░░░░░░░░░  57.84%
-Nix                      4h 57m 40s    ████░░░░░░░░░░░░░░░░░░░░░  13.66%
-Python                   2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
-TypeScript               2h 38m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
-Markdown                 1h 53m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+unknown                  19h 56m 46s   ███████████████░░░░░░░░░░  59.66%
+Nix                      3h 51m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+Python                   2h 41m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+TypeScript               2h 2m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+Markdown                 1h 47m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
 
 💼 Projects:
-matmanna                 12h 29m 14s   █████████░░░░░░░░░░░░░░░░  33.48%
-callcoach                6h 21m 41s    █████░░░░░░░░░░░░░░░░░░░░  17.06%
-selfhost                 5h 51m 41s    ████░░░░░░░░░░░░░░░░░░░░░  15.72%
-cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
+matmanna                 10h 57m 43s   ████████░░░░░░░░░░░░░░░░░  31.75%
+callcoach                6h 21m 41s    █████░░░░░░░░░░░░░░░░░░░░  18.42%
+selfhost                 5h 15m 39s    ████░░░░░░░░░░░░░░░░░░░░░  15.24%
+cmpsc-131-ps5-matmanna   2h 11m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+improve-invoicing        2h 8m 45s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
-Total: 25 hrs 2 mins
+Total: 23 hrs 13 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
