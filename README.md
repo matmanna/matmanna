@@ -20,11 +20,11 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 day ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 day ago)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(3 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(6 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(6 days ago)**
+- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(2 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 days ago)**
+- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(4 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 week ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_ **(2 weeks ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  20h 7m 15s   ███████████████░░░░░░░░░░  59.87%
-Nix                      3h 51m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
-Python                   2h 41m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
-TypeScript               2h 2m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
-Markdown                 1h 47m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
+unknown                  20h 40m 0s   ███████████████░░░░░░░░░░  59.78%
+Nix                      3h 51m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+Python                   2h 41m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
+TypeScript               2h 25m 41s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
+Markdown                 1h 47m 36s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.19%
 
 💼 Projects:
-matmanna                 11h 3m 43s   ████████░░░░░░░░░░░░░░░░░  31.88%
-callcoach                6h 21m 41s   █████░░░░░░░░░░░░░░░░░░░░  18.33%
-selfhost                 5h 15m 39s   ████░░░░░░░░░░░░░░░░░░░░░  15.16%
-cmpsc-131-ps5-matmanna   2h 11m 28s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-improve-invoicing        2h 8m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+matmanna                 11h 5m 43s   ████████░░░░░░░░░░░░░░░░░  31.31%
+callcoach                6h 21m 41s   █████░░░░░░░░░░░░░░░░░░░░  17.95%
+selfhost                 5h 15m 39s   ████░░░░░░░░░░░░░░░░░░░░░  14.84%
+cmpsc-131-ps5-matmanna   2h 11m 28s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
+improve-invoicing        2h 8m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
 
-Total: 23 hrs 24 mins
+Total: 24 hrs 8 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
