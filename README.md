@@ -20,8 +20,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(today)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 day ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 day ago)**
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(3 days ago)**
 - [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(5 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        17h 42m 26s   ██████████████░░░░░░░░░░░  52.52%
-TypeScript     5h 23m 57s    █████░░░░░░░░░░░░░░░░░░░░  16.01%
-Nix            3h 4m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  9.11%
-Python         2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.98%
-Markdown       2h 39m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+unknown        19h 6m 16s    ██████████████░░░░░░░░░░░  54.41%
+TypeScript     5h 23m 57s    ████░░░░░░░░░░░░░░░░░░░░░  15.38%
+Nix            3h 4m 18s     ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+Python         2h 41m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+Markdown       2h 39m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
 
 💼 Projects:
-indigestion    12h 30m 4s    █████████░░░░░░░░░░░░░░░░  33.17%
-callcoach      7h 5m 22s     █████░░░░░░░░░░░░░░░░░░░░  18.81%
-matmanna       5h 58m 51s    ████░░░░░░░░░░░░░░░░░░░░░  15.87%
-selfhost       3h 38m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-marmalade-v2   2h 32m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+indigestion    12h 41m 12s   █████████░░░░░░░░░░░░░░░░  32.34%
+callcoach      7h 5m 22s     █████░░░░░░░░░░░░░░░░░░░░  18.07%
+matmanna       6h 0m 51s     ████░░░░░░░░░░░░░░░░░░░░░  15.33%
+marmalade-v2   3h 47m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+selfhost       3h 38m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
 
-Total: 21 hrs 7 mins
+Total: 22 hrs 31 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
