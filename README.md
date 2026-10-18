@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        21h 16m 41s   █████████████████░░░░░░░░  65.82%
-TypeScript     5h 59m 52s    █████░░░░░░░░░░░░░░░░░░░░  18.55%
-Markdown       3h 38m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.24%
-Text           27m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-JSON           20m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+unknown        21h 38m 9s   █████████████████░░░░░░░░  66.13%
+TypeScript     6h 1m 52s    █████░░░░░░░░░░░░░░░░░░░░  18.43%
+Markdown       3h 38m 1s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+Text           27m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.42%
+JSON           20m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
 
 💼 Projects:
-matmanna       9h 3m 28s     ██████░░░░░░░░░░░░░░░░░░░  23.47%
-indigestion    8h 17m 34s    ██████░░░░░░░░░░░░░░░░░░░  21.49%
-callcoach      7h 5m 22s     █████░░░░░░░░░░░░░░░░░░░░  18.37%
-lahacks        4h 20m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
-marmalade-v2   4h 1m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
+matmanna       9h 3m 28s    ██████░░░░░░░░░░░░░░░░░░░  23.26%
+indigestion    8h 17m 34s   ██████░░░░░░░░░░░░░░░░░░░  21.29%
+callcoach      7h 5m 22s    █████░░░░░░░░░░░░░░░░░░░░  18.20%
+lahacks        4h 37m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  11.89%
+marmalade-v2   4h 1m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  10.35%
 
-Total: 22 hrs 38 mins
+Total: 23 hrs 0 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
