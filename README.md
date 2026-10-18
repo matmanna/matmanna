@@ -20,7 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`LA-Hacks-2026`](https://github.com/matmanna/LA-Hacks-2026) - _Better-bill_ **(today)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Your hospital bill, checked line by line._ **(today)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(3 days ago)**
@@ -31,7 +31,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 #### 📦  My latest projects
 
-- [`LA-Hacks-2026`](https://github.com/matmanna/LA-Hacks-2026) - _Better-bill_
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Your hospital bill, checked line by line._
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_
 - [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        19h 41m 54s   █████████████████░░░░░░░░  64.20%
-TypeScript     5h 56m 5s     █████░░░░░░░░░░░░░░░░░░░░  19.34%
-Markdown       3h 38m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-Text           27m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.51%
-JSON           20m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+unknown        21h 16m 41s   █████████████████░░░░░░░░  65.82%
+TypeScript     5h 59m 52s    █████░░░░░░░░░░░░░░░░░░░░  18.55%
+Markdown       3h 38m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.24%
+Text           27m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+JSON           20m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
 
 💼 Projects:
-matmanna       9h 3m 28s     ███████░░░░░░░░░░░░░░░░░░  24.56%
-indigestion    8h 17m 34s    ██████░░░░░░░░░░░░░░░░░░░  22.48%
-callcoach      7h 5m 22s     █████░░░░░░░░░░░░░░░░░░░░  19.22%
-marmalade-v2   4h 1m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  10.93%
-lahacks        3h 51m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
+matmanna       9h 3m 28s     ██████░░░░░░░░░░░░░░░░░░░  23.47%
+indigestion    8h 17m 34s    ██████░░░░░░░░░░░░░░░░░░░  21.49%
+callcoach      7h 5m 22s     █████░░░░░░░░░░░░░░░░░░░░  18.37%
+lahacks        4h 20m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  11.27%
+marmalade-v2   4h 1m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  10.45%
 
-Total: 21 hrs 3 mins
+Total: 22 hrs 38 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
