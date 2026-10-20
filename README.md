@@ -20,11 +20,11 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 day ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(3 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(4 days ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(5 days ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(2 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(4 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
+- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(5 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(6 days ago)**
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 week ago)**
 - [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 week ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        19h 25m 36s   █████████████████░░░░░░░░  64.39%
-TypeScript     3h 33m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
-Markdown       3h 14m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.75%
-YAML           2h 11m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
-CSS            30m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.69%
+unknown        19h 34m 26s   █████████████████░░░░░░░░  64.56%
+TypeScript     3h 33m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+Markdown       3h 14m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
+YAML           2h 11m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+CSS            30m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
 
 💼 Projects:
-matmanna       10h 6m 52s    ████████░░░░░░░░░░░░░░░░░  30.20%
-lahacks        5h 14m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.64%
-betterbill     4h 29m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.39%
-marmalade-v2   4h 1m 53s     ████░░░░░░░░░░░░░░░░░░░░░  12.04%
-indigestion    3h 43m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  11.13%
+matmanna       10h 9m 57s    ████████░░░░░░░░░░░░░░░░░  30.17%
+lahacks        5h 16m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.65%
+betterbill     4h 29m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.31%
+marmalade-v2   4h 1m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  11.97%
+indigestion    3h 43m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
 
-Total: 20 hrs 36 mins
+Total: 20 hrs 45 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
