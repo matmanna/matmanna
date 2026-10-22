@@ -20,6 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - __ **(today)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(4 days ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(6 days ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
@@ -27,33 +28,32 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 week ago)**
 - [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(1 week ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - __
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_
-- [`nestegg`](https://github.com/matmanna/nestegg) - _A phone line assistant for older adults & families to budget and secure financials, no  app required._
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown                     18h 35m 20s   ██████████████████░░░░░░░  69.26%
-Markdown                    4h 2m 14s     ████░░░░░░░░░░░░░░░░░░░░░  15.04%
-YAML                        2h 11m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
-TypeScript                  49m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
-Shell                       28m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.75%
+unknown      21h 31m 11s   █████████████████░░░░░░░░  67.85%
+Markdown     4h 20m 49s    ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+YAML         2h 13m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+TypeScript   1h 40m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+CSS          33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
 
 💼 Projects:
-matmanna                    7h 26m 27s    ███████░░░░░░░░░░░░░░░░░░  25.39%
-lahacks                     5h 16m 19s    █████░░░░░░░░░░░░░░░░░░░░  17.99%
-betterbill                  4h 29m 4s     ████░░░░░░░░░░░░░░░░░░░░░  15.30%
-omnifork                    3h 48m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.00%
-worktree-rapid-river-4dc6   2h 17m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+matmanna     7h 32m 51s    ██████░░░░░░░░░░░░░░░░░░░  22.77%
+lahacks      5h 16m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.90%
+betterbill   4h 29m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.53%
+omnifork     4h 21m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.13%
+cardmax      3h 28m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
 
-Total: 19 hrs 34 mins
+Total: 22 hrs 42 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
