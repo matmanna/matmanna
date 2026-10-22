@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                     17h 2m 48s   █████████████████░░░░░░░░  66.76%
-Markdown                    2h 47m 12s   ███░░░░░░░░░░░░░░░░░░░░░░  10.91%
-TypeScript                  2h 19m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
-YAML                        2h 11m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-Shell                       28m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
+unknown                     14h 1m 48s   █████████████████░░░░░░░░  66.77%
+Markdown                    2h 51m 56s   ████░░░░░░░░░░░░░░░░░░░░░  13.64%
+YAML                        2h 11m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  10.41%
+TypeScript                  44m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+Shell                       28m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.24%
 
 💼 Projects:
-matmanna                    8h 10m 12s   ████████░░░░░░░░░░░░░░░░░  29.53%
-lahacks                     5h 16m 19s   █████░░░░░░░░░░░░░░░░░░░░  19.05%
-betterbill                  4h 29m 4s    █████░░░░░░░░░░░░░░░░░░░░  16.21%
-marmalade-v2                3h 23m 43s   ████░░░░░░░░░░░░░░░░░░░░░  12.27%
-worktree-rapid-river-4dc6   2h 17m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+matmanna                    6h 58m 28s   ████████░░░░░░░░░░░░░░░░░  30.39%
+lahacks                     5h 16m 19s   ██████░░░░░░░░░░░░░░░░░░░  22.97%
+betterbill                  4h 29m 4s    █████░░░░░░░░░░░░░░░░░░░░  19.54%
+worktree-rapid-river-4dc6   2h 17m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.02%
+marmalade-v2                1h 26m 29s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
 
-Total: 17 hrs 47 mins
+Total: 14 hrs 45 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
