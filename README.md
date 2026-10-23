@@ -20,9 +20,9 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - __ **(today)**
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(4 days ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(6 days ago)**
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 day ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(5 days ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
@@ -31,7 +31,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 #### 📦  My latest projects
 
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - __
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_
 - [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown      21h 31m 11s   █████████████████░░░░░░░░  67.85%
-Markdown     4h 20m 49s    ████░░░░░░░░░░░░░░░░░░░░░  13.71%
-YAML         2h 13m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-TypeScript   1h 40m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
-CSS          33m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+unknown      22h 47m 23s   ███████████████░░░░░░░░░░  58.52%
+Markdown     6h 48m 31s    █████░░░░░░░░░░░░░░░░░░░░  17.48%
+TypeScript   2h 54m 8s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.45%
+YAML         2h 19m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Shell        1h 27m 19s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 
 💼 Projects:
-matmanna     7h 32m 51s    ██████░░░░░░░░░░░░░░░░░░░  22.77%
-lahacks      5h 16m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.90%
-betterbill   4h 29m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.53%
-omnifork     4h 21m 9s     ████░░░░░░░░░░░░░░░░░░░░░  13.13%
-cardmax      3h 28m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
+matmanna     7h 37m 32s    █████░░░░░░░░░░░░░░░░░░░░  19.88%
+lahacks      5h 30m 28s    ████░░░░░░░░░░░░░░░░░░░░░  14.36%
+cardmax      4h 51m 48s    ████░░░░░░░░░░░░░░░░░░░░░  12.68%
+betterbill   4h 31m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
+omnifork     4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
 
-Total: 22 hrs 42 mins
+Total: 24 hrs 0 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
