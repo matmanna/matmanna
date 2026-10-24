@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown      24h 13m 41s   ███████████████░░░░░░░░░░  56.34%
-Markdown     7h 12m 0s     █████░░░░░░░░░░░░░░░░░░░░  16.74%
-TypeScript   3h 43m 26s    ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
-YAML         2h 19m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
-Python       1h 33m 18s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+unknown      24h 39m 7s    ██████████████░░░░░░░░░░░  55.97%
+Markdown     7h 14m 0s     █████░░░░░░░░░░░░░░░░░░░░  16.42%
+TypeScript   4h 4m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
+YAML         2h 19m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
+Python       1h 35m 18s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
 
 💼 Projects:
-matmanna     10h 54m 55s   ███████░░░░░░░░░░░░░░░░░░  24.71%
-lahacks      5h 28m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.39%
-cardmax      4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
-betterbill   4h 31m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
-omnifork     4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+matmanna     10h 54m 55s   ███████░░░░░░░░░░░░░░░░░░  24.36%
+lahacks      5h 28m 28s    ████░░░░░░░░░░░░░░░░░░░░░  12.22%
+cardmax      4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
+betterbill   4h 31m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
+omnifork     4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
 
-Total: 26 hrs 15 mins
+Total: 26 hrs 53 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
