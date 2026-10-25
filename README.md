@@ -20,14 +20,14 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`disaster-swarm`](https://github.com/monpon/disaster-swarm) - _Calhacks 13 submission_ **(1 day ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 days ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 week ago)**
-- [`dots`](https://github.com/matmanna/dots) - _dotfiles for my various machine setups (Nix, Arch, and Windows)_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          21h 44m 58s   █████████████░░░░░░░░░░░░  51.53%
-Markdown         6h 12m 1s     ████░░░░░░░░░░░░░░░░░░░░░  14.69%
-TypeScript       4h 24m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
-Python           2h 45m 22s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
-YAML             2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+unknown          24h 16m 30s   ██████████████░░░░░░░░░░░  52.69%
+Markdown         6h 33m 2s     ████░░░░░░░░░░░░░░░░░░░░░  14.22%
+TypeScript       4h 57m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  10.76%
+Python           3h 3m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+YAML             2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
 
 💼 Projects:
-matmanna         8h 15m 25s    ██████░░░░░░░░░░░░░░░░░░░  21.73%
-disaster-swarm   6h 4m 4s      ████░░░░░░░░░░░░░░░░░░░░░  15.97%
-cardmax          4h 50m 23s    ████░░░░░░░░░░░░░░░░░░░░░  12.74%
-omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
-betterbill       2h 39m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
+disaster-swarm   8h 42m 15s    ██████░░░░░░░░░░░░░░░░░░░  21.29%
+matmanna         8h 23m 47s    ██████░░░░░░░░░░░░░░░░░░░  20.54%
+cardmax          4h 50m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
+omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+betterbill       2h 39m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
 
-Total: 24 hrs 8 mins
+Total: 26 hrs 50 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
