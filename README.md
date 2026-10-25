@@ -20,8 +20,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(2 days ago)**
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(6 days ago)**
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 days ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          25h 20m 23s   ██████████████░░░░░░░░░░░  53.47%
-Markdown         8h 14m 2s     █████░░░░░░░░░░░░░░░░░░░░  17.37%
-TypeScript       4h 45m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
-YAML             2h 21m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
-Python           2h 10m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
+unknown          25h 30m 33s   ██████████████░░░░░░░░░░░  53.31%
+Markdown         8h 16m 11s    █████░░░░░░░░░░░░░░░░░░░░  17.28%
+TypeScript       4h 45m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
+YAML             2h 21m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+Python           2h 12m 25s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
 
 💼 Projects:
-matmanna         11h 7m 38s    ██████░░░░░░░░░░░░░░░░░░░  23.98%
-lahacks          5h 28m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  11.80%
-cardmax          4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
-disaster-swarm   4h 46m 25s    ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
-betterbill       4h 31m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
+matmanna         11h 7m 38s    ██████░░░░░░░░░░░░░░░░░░░  23.82%
+lahacks          5h 28m 28s    ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
+disaster-swarm   5h 4m 53s     ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
+cardmax          4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
+betterbill       4h 31m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
 
-Total: 27 hrs 49 mins
+Total: 28 hrs 7 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
