@@ -20,7 +20,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`disaster-swarm`](https://github.com/monpon/disaster-swarm) - _Calhacks 13 submission_ **(1 day ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(today)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 days ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          25h 5m 37s    █████████████░░░░░░░░░░░░  49.72%
-Markdown         7h 54m 15s    ████░░░░░░░░░░░░░░░░░░░░░  15.66%
-TypeScript       6h 8m 47s     ████░░░░░░░░░░░░░░░░░░░░░  12.18%
-Python           3h 12m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-YAML             2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
+unknown          26h 25m 0s    █████████████░░░░░░░░░░░░  50.61%
+Markdown         8h 2m 44s     ████░░░░░░░░░░░░░░░░░░░░░  15.41%
+TypeScript       6h 20m 53s    ████░░░░░░░░░░░░░░░░░░░░░  12.16%
+Python           3h 12m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+YAML             2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 
 💼 Projects:
-matmanna         12h 15m 58s   ███████░░░░░░░░░░░░░░░░░░  26.13%
-disaster-swarm   9h 21m 58s    █████░░░░░░░░░░░░░░░░░░░░  19.95%
-cardmax          4h 50m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
-omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
-betterbill       2h 39m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
+matmanna         12h 34m 29s   ███████░░░░░░░░░░░░░░░░░░  25.78%
+disaster-swarm   10h 30m 32s   ██████░░░░░░░░░░░░░░░░░░░  21.55%
+cardmax          4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+betterbill       2h 41m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
 
-Total: 27 hrs 35 mins
+Total: 28 hrs 59 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
