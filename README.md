@@ -20,14 +20,14 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(today)**
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 days ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(1 day ago)**
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(4 days ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 week ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(1 week ago)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 week ago)**
-- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(1 week ago)**
+- [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          26h 33m 41s   █████████████░░░░░░░░░░░░  50.68%
-Markdown         8h 2m 44s     ████░░░░░░░░░░░░░░░░░░░░░  15.35%
-TypeScript       6h 20m 53s    ████░░░░░░░░░░░░░░░░░░░░░  12.11%
+unknown          26h 35m 41s   █████████████░░░░░░░░░░░░  50.71%
+Markdown         8h 2m 44s     ████░░░░░░░░░░░░░░░░░░░░░  15.34%
+TypeScript       6h 20m 53s    ████░░░░░░░░░░░░░░░░░░░░░  12.10%
 Python           3h 12m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
 YAML             2h 19m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
 
 💼 Projects:
-matmanna         12h 38m 12s   ███████░░░░░░░░░░░░░░░░░░  25.79%
-disaster-swarm   10h 38m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.73%
+matmanna         12h 40m 12s   ███████░░░░░░░░░░░░░░░░░░  25.84%
+disaster-swarm   10h 38m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.72%
 cardmax          4h 52m 23s    ███░░░░░░░░░░░░░░░░░░░░░░  9.94%
-omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
+omnifork         4h 24m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
 betterbill       2h 41m 42s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
 
-Total: 29 hrs 8 mins
+Total: 29 hrs 10 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
