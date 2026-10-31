@@ -20,13 +20,13 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(today)**
-- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(5 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(6 days ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 week ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 week ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 weeks ago)**
 - [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(2 weeks ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 weeks ago)**
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_ **(2 weeks ago)**
 
 #### 📦  My latest projects
@@ -40,20 +40,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          14h 50m 4s    ███████████████░░░░░░░░░░  56.54%
-TypeScript       3h 31m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.46%
-Markdown         3h 1m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-Python           2h 44m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
-JavaScript       42m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
+unknown             16h 44m 11s   ███████████████░░░░░░░░░░  58.91%
+TypeScript          3h 31m 51s    ████░░░░░░░░░░░░░░░░░░░░░  12.43%
+Markdown            3h 7m 58s     ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
+Python              2h 44m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+JavaScript          42m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
 
 💼 Projects:
-disaster-swarm   10h 34m 56s   ██████████░░░░░░░░░░░░░░░  37.48%
-matmanna         5h 38m 38s    █████░░░░░░░░░░░░░░░░░░░░  19.99%
-gamblr           5h 29m 48s    █████░░░░░░░░░░░░░░░░░░░░  19.47%
-slacker-news     1h 21m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
-hacklas          1h 9m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.13%
+disaster-swarm      10h 34m 56s   █████████░░░░░░░░░░░░░░░░  34.95%
+matmanna            5h 41m 49s    █████░░░░░░░░░░░░░░░░░░░░  18.81%
+gamblr              5h 29m 48s    █████░░░░░░░░░░░░░░░░░░░░  18.15%
+improve-invoicing   2h 20m 53s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
+slacker-news        1h 41m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
 
-Total: 16 hrs 55 mins
+Total: 18 hrs 54 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
