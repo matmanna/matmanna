@@ -25,7 +25,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(1 week ago)**
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown          25h 33m 48s   █████████████░░░░░░░░░░░░  48.89%
-TypeScript       13h 17m 43s   ███████░░░░░░░░░░░░░░░░░░  25.43%
-Markdown         4h 32m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-Text             2h 18m 49s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-Python           1h 31m 58s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+unknown             21h 5m 15s   █████████████░░░░░░░░░░░░  49.68%
+TypeScript          11h 9m 51s   ███████░░░░░░░░░░░░░░░░░░  26.30%
+Markdown            3h 5m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
+Text                2h 17m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
+Python              54m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
 
 💼 Projects:
-openmotion       8h 52m 36s    ██████░░░░░░░░░░░░░░░░░░░  23.36%
-omnifork         6h 32m 22s    █████░░░░░░░░░░░░░░░░░░░░  17.21%
-disaster-swarm   4h 48m 8s     ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-gamblr           3h 0m 21s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
-matmanna         2h 44m 44s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
+openmotion          8h 55m 38s   █████████░░░░░░░░░░░░░░░░  32.10%
+omnifork            6h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.52%
+matmanna.dev        2h 57m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
+improve-invoicing   2h 21m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
+slacker-news        1h 38m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
 
-Total: 27 hrs 44 mins
+Total: 23 hrs 1 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
