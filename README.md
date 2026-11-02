@@ -25,6 +25,7 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
   
 #### 🏗️  The latest repos I've pushed to
 
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(today)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(today)**
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
@@ -32,7 +33,6 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 week ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(2 weeks ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 weeks ago)**
-- [`slacker-news-rss`](https://github.com/MathiasDPX/slacker-news-rss) - __ **(2 weeks ago)**
 
 #### 📦  My latest projects
 
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             21h 5m 15s   █████████████░░░░░░░░░░░░  49.68%
-TypeScript          11h 9m 51s   ███████░░░░░░░░░░░░░░░░░░  26.30%
-Markdown            3h 5m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.28%
-Text                2h 17m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-Python              54m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+unknown             21h 9m 4s    █████████████░░░░░░░░░░░░  49.75%
+TypeScript          11h 9m 51s   ███████░░░░░░░░░░░░░░░░░░  26.26%
+Markdown            3h 5m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
+Text                2h 17m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
+Python              54m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
 
 💼 Projects:
-openmotion          8h 55m 38s   █████████░░░░░░░░░░░░░░░░  32.10%
-omnifork            6h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.52%
-matmanna.dev        2h 57m 9s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-improve-invoicing   2h 21m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-slacker-news        1h 38m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.87%
+openmotion          8h 55m 38s   █████████░░░░░░░░░░░░░░░░  32.01%
+omnifork            6h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.45%
+matmanna.dev        2h 59m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+improve-invoicing   2h 21m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+slacker-news        1h 38m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
 
-Total: 23 hrs 1 mins
+Total: 23 hrs 5 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
