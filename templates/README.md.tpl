@@ -16,7 +16,12 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ### what i'm up to `:now`
 
-<details><summary>Recently, I've been shipping,<sub> (expand for stats!)</sub> but also: </summary>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain" width="742">
+</picture>
+
+<details><summary>Recently, I've been shipping<!--shipping-from-->,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 {{range recentContributions 8}}

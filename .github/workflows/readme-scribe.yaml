@@ -31,7 +31,34 @@ jobs:
           WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
         run: markscribe -write README.md templates/README.md.tpl
 
+      - name: add where I'm shipping from
+        run: |
+          python3 - <<'PY'
+          import json, re, urllib.request
+          from html import escape
+          from urllib.parse import quote
+
+          text = ""
+          try:
+              with urllib.request.urlopen("https://location.matmanna.dev/json", timeout=20) as r:
+                  loc = json.load(r)
+              label = loc.get("city") or loc.get("region") or loc.get("country")
+              if label:
+                  slug = lambda name: name.replace(" ", "_")
+                  city, region = loc.get("city"), loc.get("region")
+                  page = slug(city) + ",_" + slug(region) if city and region else slug(label)
+                  text = ' from <a href="https://en.wikipedia.org/wiki/' + quote(page, safe=",_") + '">' + escape(label) + "</a>"
+          except Exception as error:
+              print("location unavailable:", error)
+
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme.replace("<!--shipping-from-->", text))
+          PY
+
       - uses: stefanzweifel/git-auto-commit-action@v4
+        if: github.ref == 'refs/heads/main'
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
