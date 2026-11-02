@@ -39,9 +39,15 @@ jobs:
           from urllib.parse import quote
 
           text = ""
+          version = "0"
           try:
-              with urllib.request.urlopen("https://location.matmanna.dev/json", timeout=20) as r:
+              request = urllib.request.Request(
+                  "https://location.matmanna.dev/json",
+                  headers={"User-Agent": "matmanna-readme/1.0 (+https://github.com/matmanna/matmanna)"},
+              )
+              with urllib.request.urlopen(request, timeout=20) as r:
                   loc = json.load(r)
+              version = str(loc.get("updated", "0"))
               label = loc.get("city") or loc.get("region") or loc.get("country")
               if label:
                   slug = lambda name: name.replace(" ", "_")
@@ -54,7 +60,7 @@ jobs:
           with open("README.md", encoding="utf-8") as f:
               readme = f.read()
           with open("README.md", "w", encoding="utf-8") as f:
-              f.write(readme.replace("<!--shipping-from-->", text))
+              f.write(readme.replace("<!--shipping-from-->", text).replace("@@MAPV@@", version))
           PY
 
       - uses: stefanzweifel/git-auto-commit-action@v4

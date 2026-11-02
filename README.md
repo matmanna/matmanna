@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=@@MAPV@@">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=@@MAPV@@" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping,<sub> (expand for stats!)</sub> but also: </summary>
