@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             21h 23m 2s    █████████████░░░░░░░░░░░░  49.91%
-TypeScript          11h 11m 51s   ███████░░░░░░░░░░░░░░░░░░  26.14%
-Markdown            3h 5m 29s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
-Text                2h 20m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
-Python              54m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+unknown             20h 51m 36s   █████████████░░░░░░░░░░░░  49.94%
+TypeScript          11h 11m 45s   ███████░░░░░░░░░░░░░░░░░░  26.80%
+Markdown            2h 50m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+Text                2h 21m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
+Python              54m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
 
 💼 Projects:
-openmotion          9h 4m 7s      █████████░░░░░░░░░░░░░░░░  32.14%
-omnifork            6h 32m 22s    ██████░░░░░░░░░░░░░░░░░░░  23.18%
-matmanna.dev        2h 59m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
-improve-invoicing   2h 21m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
-slacker-news        1h 38m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.79%
+openmotion          9h 29m 54s    █████████░░░░░░░░░░░░░░░░  35.40%
+omnifork            6h 34m 39s    ███████░░░░░░░░░░░░░░░░░░  24.51%
+matmanna.dev        3h 4m 54s     ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
+improve-invoicing   2h 2m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
+slacker-news        1h 31m 56s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
 
-Total: 23 hrs 22 mins
+Total: 22 hrs 48 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
