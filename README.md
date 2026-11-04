@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1793770812622">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1793770812622" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1793807017197">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1793807017197" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             23h 56m 22s   █████████████░░░░░░░░░░░░  51.27%
-TypeScript          12h 13m 18s   ███████░░░░░░░░░░░░░░░░░░  26.18%
-Text                3h 0m 54s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
-Markdown            2h 52m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
-Python              54m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
+unknown             24h 6m 21s    ████████████░░░░░░░░░░░░░  47.98%
+TypeScript          14h 22m 17s   ████████░░░░░░░░░░░░░░░░░  28.60%
+Text                3h 23m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.74%
+Markdown            3h 7m 46s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+Rust                1h 4m 49s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
 
 💼 Projects:
-openmotion          11h 44m 15s   ██████████░░░░░░░░░░░░░░░  38.92%
-omnifork            6h 34m 39s    ██████░░░░░░░░░░░░░░░░░░░  21.81%
-matmanna.dev        3h 4m 54s     ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
-improve-invoicing   2h 2m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.79%
-indigestion         1h 37m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
+matmanna            16h 14m 20s   █████████░░░░░░░░░░░░░░░░  35.33%
+openmotion          11h 50m 1s    ███████░░░░░░░░░░░░░░░░░░  25.75%
+omnifork            6h 34m 39s    ████░░░░░░░░░░░░░░░░░░░░░  14.31%
+matmanna.dev        3h 4m 54s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+improve-invoicing   2h 2m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
-Total: 25 hrs 56 mins
+Total: 26 hrs 13 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
