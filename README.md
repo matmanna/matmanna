@@ -17,20 +17,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1793830004790">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1793830004790" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1793844893404">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1793844893404" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(1 day ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(5 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(6 days ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(1 week ago)**
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 week ago)**
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(2 weeks ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(2 weeks ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(2 weeks ago)**
 
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown             25h 3m 35s    █████████████░░░░░░░░░░░░  48.44%
-TypeScript          14h 22m 17s   ███████░░░░░░░░░░░░░░░░░░  27.78%
-Text                3h 23m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
-Markdown            3h 7m 46s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
-Rust                1h 4m 49s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+unknown             25h 18m 46s   █████████████░░░░░░░░░░░░  48.18%
+TypeScript          14h 26m 38s   ███████░░░░░░░░░░░░░░░░░░  27.49%
+Text                3h 49m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.29%
+Markdown            3h 7m 46s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Rust                1h 4m 49s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
 
 💼 Projects:
-matmanna            16h 14m 20s   █████████░░░░░░░░░░░░░░░░  34.27%
-openmotion          11h 50m 1s    ███████░░░░░░░░░░░░░░░░░░  24.97%
-omnifork            6h 34m 39s    ████░░░░░░░░░░░░░░░░░░░░░  13.88%
-matmanna.dev        3h 4m 54s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-improve-invoicing   2h 2m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+matmanna            16h 14m 20s   █████████░░░░░░░░░░░░░░░░  33.85%
+openmotion          12h 25m 3s    ███████░░░░░░░░░░░░░░░░░░  25.89%
+omnifork            6h 34m 39s    ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+matmanna.dev        3h 4m 54s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+improve-invoicing   2h 2m 51s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
 
-Total: 27 hrs 24 mins
+Total: 27 hrs 59 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
