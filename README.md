@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794011784917">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794011784917" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794079821135">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794079821135" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown      28h 6m 43s    █████████████░░░░░░░░░░░░  50.13%
-TypeScript   14h 34m 24s   ███████░░░░░░░░░░░░░░░░░░  25.99%
-Text         4h 17m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
-Markdown     2h 38m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
-MDX          1h 8m 40s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.04%
+unknown      28h 17m 23s   █████████████░░░░░░░░░░░░  49.78%
+TypeScript   14h 34m 24s   ███████░░░░░░░░░░░░░░░░░░  25.65%
+Text         4h 17m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
+Markdown     2h 38m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+Python       1h 33m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
 
 💼 Projects:
-matmanna     16h 3m 28s    ████████░░░░░░░░░░░░░░░░░  31.45%
-openmotion   13h 28m 42s   ███████░░░░░░░░░░░░░░░░░░  26.40%
-omnifork     4h 44m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
-hacklas      4h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-website      4h 21m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.54%
+matmanna     16h 9m 28s    ████████░░░░░░░░░░░░░░░░░  31.22%
+openmotion   13h 28m 42s   ███████░░░░░░░░░░░░░░░░░░  26.05%
+omnifork     4h 44m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+hacklas      4h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+website      4h 21m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
 
-Total: 31 hrs 27 mins
+Total: 32 hrs 2 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
