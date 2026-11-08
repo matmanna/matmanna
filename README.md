@@ -17,21 +17,21 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794087130190">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794087130190" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794108092924">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794108092924" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 days ago)**
-- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 days ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(5 days ago)**
-- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
+- [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(3 days ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(6 days ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(2 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(2 weeks ago)**
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(2 weeks ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(3 weeks ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(3 weeks ago)**
 
 #### 📦  My latest projects
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown      28h 17m 23s   █████████████░░░░░░░░░░░░  49.78%
-TypeScript   14h 34m 24s   ███████░░░░░░░░░░░░░░░░░░  25.65%
-Text         4h 17m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.56%
-Markdown     2h 38m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
-Python       1h 33m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+unknown      29h 2m 29s    █████████████░░░░░░░░░░░░  50.00%
+TypeScript   14h 39m 20s   ███████░░░░░░░░░░░░░░░░░░  25.23%
+Text         4h 25m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+Markdown     2h 44m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+Python       1h 34m 12s    █░░░░░░░░░░░░░░░░░░░░░░░░  2.70%
 
 💼 Projects:
-matmanna     16h 9m 28s    ████████░░░░░░░░░░░░░░░░░  31.22%
-openmotion   13h 28m 42s   ███████░░░░░░░░░░░░░░░░░░  26.05%
-omnifork     4h 44m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
-hacklas      4h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
-website      4h 21m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+matmanna     16h 13m 28s   ████████░░░░░░░░░░░░░░░░░  30.79%
+openmotion   14h 18m 5s    ███████░░░░░░░░░░░░░░░░░░  27.14%
+omnifork     4h 46m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+hacklas      4h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
+website      4h 21m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
 
-Total: 32 hrs 2 mins
+Total: 32 hrs 55 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
