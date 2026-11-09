@@ -17,17 +17,17 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794184882495">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794184882495" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794206554560">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794206554560" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
 - [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(4 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(2 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(2 weeks ago)**
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        21h 44m 52s   ██████████████░░░░░░░░░░░  52.63%
-TypeScript     9h 3m 22s     ██████░░░░░░░░░░░░░░░░░░░  21.92%
-Text           3h 32m 14s    ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-Markdown       1h 31m 34s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
-MDX            1h 8m 40s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
+unknown       16h 16m 38s   ███████████████░░░░░░░░░░  56.25%
+TypeScript    5h 48m 44s    ██████░░░░░░░░░░░░░░░░░░░  20.09%
+Text          1h 48m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+MDX           1h 8m 40s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
+Python        50m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
 
 💼 Projects:
-matmanna       11h 15m 34s   ████████░░░░░░░░░░░░░░░░░  29.25%
-openmotion     9h 38m 24s    ███████░░░░░░░░░░░░░░░░░░  25.04%
-hacklas        4h 24m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
-website        4h 21m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
-matmanna.dev   2h 45m 11s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+matmanna      7h 59m 35s    ████████░░░░░░░░░░░░░░░░░  28.09%
+openmotion    5h 45m 45s    ██████░░░░░░░░░░░░░░░░░░░  20.25%
+hacklas       4h 24m 51s    ████░░░░░░░░░░░░░░░░░░░░░  15.51%
+website       4h 21m 39s    ████░░░░░░░░░░░░░░░░░░░░░  15.33%
+indigestion   1h 21m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
 
-Total: 24 hrs 46 mins
+Total: 18 hrs 40 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
