@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown       17h 57m 37s   ███████████████░░░░░░░░░░  58.50%
-TypeScript    5h 42m 41s    █████░░░░░░░░░░░░░░░░░░░░  18.60%
-Text          1h 55m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-MDX           1h 8m 40s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
-Python        55m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+unknown      15h 46m 11s   ███████████████░░░░░░░░░░  59.33%
+TypeScript   4h 22m 1s     █████░░░░░░░░░░░░░░░░░░░░  16.43%
+Text         1h 36m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
+MDX          1h 8m 40s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+Python       55m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 
 💼 Projects:
-openmotion    7h 26m 35s    ███████░░░░░░░░░░░░░░░░░░  24.73%
-matmanna      7h 11m 16s    ██████░░░░░░░░░░░░░░░░░░░  23.89%
-hacklas       4h 22m 51s    ████░░░░░░░░░░░░░░░░░░░░░  14.56%
-website       4h 13m 16s    ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-indigestion   1h 28m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+openmotion   6h 17m 57s    ██████░░░░░░░░░░░░░░░░░░░  23.92%
+matmanna     5h 41m 48s    ██████░░░░░░░░░░░░░░░░░░░  21.63%
+hacklas      4h 22m 51s    █████░░░░░░░░░░░░░░░░░░░░  16.63%
+website      4h 13m 16s    █████░░░░░░░░░░░░░░░░░░░░  16.03%
+omnifork     1h 17m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
 
-Total: 20 hrs 45 mins
+Total: 18 hrs 25 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
