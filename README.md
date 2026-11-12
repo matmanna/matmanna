@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794441872313">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794441872313" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794454504268">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794454504268" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown      15h 46m 11s   ███████████████░░░░░░░░░░  59.33%
-TypeScript   4h 22m 1s     █████░░░░░░░░░░░░░░░░░░░░  16.43%
-Text         1h 36m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
-MDX          1h 8m 40s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
-Python       55m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+unknown      13h 38m 1s   █████████████████░░░░░░░░  64.55%
+TypeScript   2h 57m 52s   ████░░░░░░░░░░░░░░░░░░░░░  14.04%
+Python       51m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+Text         47m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+MDX          46m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
 
 💼 Projects:
-openmotion   6h 17m 57s    ██████░░░░░░░░░░░░░░░░░░░  23.92%
-matmanna     5h 41m 48s    ██████░░░░░░░░░░░░░░░░░░░  21.63%
-hacklas      4h 22m 51s    █████░░░░░░░░░░░░░░░░░░░░  16.63%
-website      4h 13m 16s    █████░░░░░░░░░░░░░░░░░░░░  16.03%
-omnifork     1h 17m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.92%
+openmotion   5h 4m 44s    ███████░░░░░░░░░░░░░░░░░░  24.12%
+hacklas      4h 22m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.80%
+website      4h 13m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.04%
+matmanna     3h 29m 24s   █████░░░░░░░░░░░░░░░░░░░░  16.57%
+omnifork     1h 21m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.46%
 
-Total: 18 hrs 25 mins
+Total: 15 hrs 40 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
