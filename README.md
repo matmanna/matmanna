@@ -17,22 +17,22 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794684557694">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794684557694" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794702749799">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794702749799" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 days ago)**
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 week ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 week ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
-- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(2 weeks ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(3 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 weeks ago)**
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(3 weeks ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(4 weeks ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(4 weeks ago)**
+- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 month ago)**
 
 #### 📦  My latest projects
 
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  7h 25m 49s   ██████████░░░░░░░░░░░░░░░  39.27%
-TypeScript               3h 32m 48s   █████░░░░░░░░░░░░░░░░░░░░  18.74%
-Text                     2h 32m 6s    ████░░░░░░░░░░░░░░░░░░░░░  13.40%
-Python                   2h 8m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.36%
-JSON                     1h 20m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+unknown                  8h 28m 46s   ███████████░░░░░░░░░░░░░░  41.92%
+TypeScript               3h 37m 9s    █████░░░░░░░░░░░░░░░░░░░░  17.89%
+Text                     2h 34m 37s   ████░░░░░░░░░░░░░░░░░░░░░  12.74%
+Python                   2h 8m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
+JSON                     1h 20m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
 
 💼 Projects:
-matmanna                 6h 28m 20s   ██████████░░░░░░░░░░░░░░░  36.81%
-openmotion               5h 58m 54s   █████████░░░░░░░░░░░░░░░░  34.02%
-omnifork                 1h 41m 51s   ███░░░░░░░░░░░░░░░░░░░░░░  9.65%
-cmpsc-131-ps7-matmanna   1h 22m 15s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-cmpsc-131-psx-matmanna   35m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
+matmanna                 6h 32m 15s   █████████░░░░░░░░░░░░░░░░  34.82%
+openmotion               6h 10m 45s   █████████░░░░░░░░░░░░░░░░  32.91%
+omnifork                 1h 44m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+slacker-news             1h 24m 4s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+cmpsc-131-ps7-matmanna   1h 22m 15s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
-Total: 10 hrs 18 mins
+Total: 11 hrs 28 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
