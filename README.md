@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794773366115">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794773366115" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794787886950">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794787886950" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -26,9 +26,9 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 #### 🏗️  The latest repos I've pushed to
 
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 week ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 week ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(3 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 weeks ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(4 weeks ago)**
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  8h 39m 35s   ████████████░░░░░░░░░░░░░  45.26%
-TypeScript               3h 26m 24s   █████░░░░░░░░░░░░░░░░░░░░  17.98%
-Text                     2h 18m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.06%
-Python                   1h 35m 43s   ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
-JSON                     1h 9m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+unknown                  10h 44m 19s   █████████████░░░░░░░░░░░░  48.28%
+TypeScript               3h 51m 57s    █████░░░░░░░░░░░░░░░░░░░░  17.38%
+Text                     2h 22m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
+Python                   1h 35m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+Markdown                 1h 11m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.34%
 
 💼 Projects:
-openmotion               5h 52m 40s   █████████░░░░░░░░░░░░░░░░  33.03%
-matmanna                 5h 39m 28s   ████████░░░░░░░░░░░░░░░░░  31.80%
-slacker-news             2h 10m 59s   ████░░░░░░░░░░░░░░░░░░░░░  12.27%
-omnifork                 1h 49m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  10.23%
-cmpsc-131-ps7-matmanna   1h 22m 15s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
+openmotion               6h 0m 12s     ████████░░░░░░░░░░░░░░░░░  29.85%
+matmanna                 5h 39m 28s    ████████░░░░░░░░░░░░░░░░░  28.14%
+slacker-news             3h 10m 55s    ████░░░░░░░░░░░░░░░░░░░░░  15.82%
+omnifork                 1h 49m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
+cmpsc-131-ps7-matmanna   1h 22m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
 
-Total: 11 hrs 18 mins
+Total: 13 hrs 37 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
