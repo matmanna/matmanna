@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794847274945">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794847274945" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1794877090977">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1794877090977" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -26,12 +26,12 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 #### 🏗️  The latest repos I've pushed to
 
 - [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(5 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(1 week ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(3 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(3 weeks ago)**
-- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(4 weeks ago)**
+- [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 month ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 month ago)**
 
 #### 📦  My latest projects
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        12h 20m 21s   █████████████░░░░░░░░░░░░  51.05%
-TypeScript     4h 16m 51s    █████░░░░░░░░░░░░░░░░░░░░  17.71%
-Text           2h 20m 42s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-Python         1h 35m 43s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
-JSON           1h 7m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+unknown        13h 11m 1s   ██████████████░░░░░░░░░░░  52.16%
+TypeScript     4h 28m 52s   █████░░░░░░░░░░░░░░░░░░░░  17.73%
+Text           2h 20m 42s   ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
+Python         1h 35m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+JSON           1h 7m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.47%
 
 💼 Projects:
-openmotion     6h 33m 41s    ████████░░░░░░░░░░░░░░░░░  30.21%
-matmanna       5h 31m 43s    ███████░░░░░░░░░░░░░░░░░░  25.45%
-slacker-news   3h 45m 42s    █████░░░░░░░░░░░░░░░░░░░░  17.32%
-omnifork       1h 47m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
-meetupmap      1h 43m 18s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+openmotion     6h 33m 41s   ████████░░░░░░░░░░░░░░░░░  28.91%
+matmanna       5h 31m 43s   ███████░░░░░░░░░░░░░░░░░░  24.36%
+slacker-news   4h 35m 41s   ██████░░░░░░░░░░░░░░░░░░░  20.24%
+omnifork       1h 47m 37s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
+meetupmap      1h 43m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
 
-Total: 15 hrs 21 mins
+Total: 16 hrs 21 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
