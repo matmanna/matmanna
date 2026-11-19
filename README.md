@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795060305051">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795060305051" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795108273794">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795108273794" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  16h 2m 54s   █████████████████░░░░░░░░  64.10%
-TypeScript               3h 5m 42s    ████░░░░░░░░░░░░░░░░░░░░░  12.36%
-Text                     1h 38m 16s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
-Python                   1h 29m 23s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
-Markdown                 40m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
+unknown                  16h 15m 16s   █████████████████░░░░░░░░  64.39%
+TypeScript               3h 5m 42s     ████░░░░░░░░░░░░░░░░░░░░░  12.26%
+Text                     1h 38m 16s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+Python                   1h 29m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+Markdown                 40m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
 
 💼 Projects:
-slacker-news             8h 39m 43s   ███████████░░░░░░░░░░░░░░  40.36%
-openmotion               4h 57m 8s    ██████░░░░░░░░░░░░░░░░░░░  23.08%
-matmanna                 1h 50m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
-meetupmap                1h 46m 12s   ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
-cmpsc-131-ps7-matmanna   1h 22m 15s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+slacker-news             8h 52m 5s     ███████████░░░░░░░░░░░░░░  40.93%
+openmotion               4h 57m 8s     ██████░░░░░░░░░░░░░░░░░░░  22.86%
+matmanna                 1h 50m 18s    ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
+meetupmap                1h 46m 12s    ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+cmpsc-131-ps7-matmanna   1h 22m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
 
-Total: 19 hrs 6 mins
+Total: 19 hrs 18 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
