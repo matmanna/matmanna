@@ -17,20 +17,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795201284769">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795201284769" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795230385900">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795230385900" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(1 day ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(2 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 weeks ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(3 weeks ago)**
-- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(4 weeks ago)**
+- [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 month ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 month ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 month ago)**
 
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  19h 41m 21s   ██████████████████░░░░░░░  68.90%
-TypeScript               3h 0m 42s     ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
-Python                   1h 44m 23s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
-Text                     1h 36m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-Markdown                 48m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+unknown                  20h 51m 8s   ██████████████████░░░░░░░  68.37%
+TypeScript               3h 11m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  10.44%
+Python                   1h 46m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+Text                     1h 38m 59s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+Markdown                 48m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-slacker-news             11h 20m 55s   ████████████░░░░░░░░░░░░░  47.02%
-openmotion               5h 16m 48s    ██████░░░░░░░░░░░░░░░░░░░  21.88%
-meetupmap                1h 46m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.33%
-cmpsc-131-ps7-matmanna   1h 38m 59s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
-matmanna                 48m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+slacker-news             12h 12m 9s   █████████████░░░░░░░░░░░░  48.04%
+openmotion               5h 22m 28s   ██████░░░░░░░░░░░░░░░░░░░  21.16%
+meetupmap                1h 46m 12s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+cmpsc-131-ps7-matmanna   1h 38m 59s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.49%
+matmanna                 53m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
 
-Total: 22 hrs 47 mins
+Total: 23 hrs 59 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
