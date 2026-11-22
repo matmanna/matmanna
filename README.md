@@ -17,19 +17,19 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795287490354">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795287490354" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795305613424">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795305613424" width="742">
 </picture>
 
-<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Boston,_Massachusetts">Boston</a>,<sub> (expand for stats!)</sub> but also: </summary>
+<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(2 days ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(3 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 weeks ago)**
 - [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
-- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(3 weeks ago)**
+- [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(4 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 month ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 month ago)**
 - [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 month ago)**
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown                  23h 48m 54s   █████████████████░░░░░░░░  65.20%
-TypeScript               3h 13m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
-Python                   2h 52m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-Text                     2h 33m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
-Markdown                 1h 34m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
+unknown        26h 55m 19s   █████████████████░░░░░░░░  64.90%
+TypeScript     3h 43m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
+Python         2h 57m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
+Text           2h 51m 6s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.87%
+Markdown       1h 40m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
 
 💼 Projects:
-slacker-news             12h 9m 45s    ███████████░░░░░░░░░░░░░░  41.51%
-openmotion               6h 9m 47s     ██████░░░░░░░░░░░░░░░░░░░  21.03%
-marmalade-v2             2h 59m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
-meetupmap                1h 46m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
-cmpsc-131-ps7-matmanna   1h 43m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.89%
+slacker-news   12h 9m 45s    █████████░░░░░░░░░░░░░░░░  35.23%
+openmotion     8h 17m 57s    ███████░░░░░░░░░░░░░░░░░░  24.04%
+marmalade-v2   3h 55m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.37%
+omnifork       2h 35m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.50%
+meetupmap      1h 46m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 
-Total: 27 hrs 49 mins
+Total: 31 hrs 59 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
