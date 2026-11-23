@@ -17,18 +17,18 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795381565164">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795381565164" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795397078730">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795397078730" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Boston,_Massachusetts">Boston</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(3 days ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(4 days ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(5 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 weeks ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(2 weeks ago)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 weeks ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(4 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 month ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 month ago)**
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        27h 8m 31s    █████████████████░░░░░░░░  66.01%
-TypeScript     3h 48m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  9.25%
-Text           3h 27m 35s    ███░░░░░░░░░░░░░░░░░░░░░░  8.41%
-Markdown       1h 48m 57s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
-Python         1h 37m 7s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
+unknown        29h 31m 42s   ██████████████░░░░░░░░░░░  52.47%
+TypeScript     9h 55m 33s    █████░░░░░░░░░░░░░░░░░░░░  17.64%
+Text           5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
+Markdown       3h 22m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
+Python         1h 47m 46s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
 
 💼 Projects:
-slacker-news   10h 27m 49s   ████████░░░░░░░░░░░░░░░░░  31.04%
-openmotion     8h 25m 40s    ███████░░░░░░░░░░░░░░░░░░  25.00%
-marmalade-v2   5h 34m 58s    █████░░░░░░░░░░░░░░░░░░░░  16.56%
-omnifork       2h 53m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
-meetupmap      1h 46m 12s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.25%
+matmanna       15h 48m 36s   ████████░░░░░░░░░░░░░░░░░  30.61%
+slacker-news   10h 29m 49s   ██████░░░░░░░░░░░░░░░░░░░  20.32%
+openmotion     8h 38m 27s    █████░░░░░░░░░░░░░░░░░░░░  16.73%
+marmalade-v2   7h 7m 57s     ████░░░░░░░░░░░░░░░░░░░░░  13.81%
+omnifork       3h 12m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
 
-Total: 30 hrs 24 mins
+Total: 33 hrs 1 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
