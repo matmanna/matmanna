@@ -17,48 +17,48 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795397078730">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795397078730" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795418926803">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795418926803" width="742">
 </picture>
 
-<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Boston,_Massachusetts">Boston</a>,<sub> (expand for stats!)</sub> but also: </summary>
+<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
-- [`slacker-news`](https://github.com/hackclub/slacker-news) - _Official News from Hack Club_ **(4 days ago)**
-- [`indigest`](https://github.com/matmanna/indigest) - _privacy-concious slack bridge for api, webhook, rss, and pub/sub 🪠_ **(5 days ago)**
+- [`plinth`](https://github.com/matmanna/plinth) - _a foundation for all the factories_ **(today)**
+- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(1 day ago)**
+- [`slacker-news`](https://github.com/hackclub/slacker-news) - _official news from hack club_ **(4 days ago)**
+- [`indigest`](https://github.com/matmanna/indigest) - _private slack bridge for api, webhook, rss, and pub/sub_ **(5 days ago)**
 - [`website`](https://github.com/builders-collective-psu/website) - _Builder's Collective PSU website_ **(2 weeks ago)**
-- [`matmanna.dev`](https://github.com/matmanna/matmanna.dev) - _personal site ~v4~v1_ **(3 weeks ago)**
 - [`mayfly`](https://github.com/monpon/mayfly) - _Mayfly: an autonomous drone swarm for indoor search and rescue. Many small, affordable drones explore a damaged building in parallel and fuse what they see into one shared 3D map, feeding a rescue dashboard with live feeds, survivor locations, estimated vitals, hazards and routes. CalHacks 13._ **(4 weeks ago)**
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._ **(1 month ago)**
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_ **(1 month ago)**
-- [`marmalade`](https://github.com/hackclub/marmalade) - _🍊 is a permissionful api access and administration layer for 🍓_ **(1 month ago)**
 
 #### 📦  My latest projects
 
+- [`plinth`](https://github.com/matmanna/plinth) - _a foundation for all the factories_
 - [`pointmaxx`](https://github.com/matmanna/pointmaxx) - _The right card at every checkout._
 - [`betterbill`](https://github.com/matmanna/betterbill) - _Don't pay what you don't owe. Snap your hospital bill, finds questions, and advocates for you_
 - [`callcoach`](https://github.com/matmanna/callcoach) - _Operating system for nonprofit outreach coordinator observability, capture improvement + private, on-device copilot for outreach_
-- [`yinzone`](https://github.com/matmanna/yinzone) - _Operating System powering the burgh's build chain. Made for AI Horizons 2026 Hackathon_
 
 #### 📡  My [_`hackatime`_](https://hackatime.hackclub.com) stats from this week
 
 ```text
 💾 Languages:
-unknown        29h 31m 42s   ██████████████░░░░░░░░░░░  52.47%
-TypeScript     9h 55m 33s    █████░░░░░░░░░░░░░░░░░░░░  17.64%
-Text           5h 51m 11s    ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
-Markdown       3h 22m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.01%
-Python         1h 47m 46s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
+unknown        30h 46m 2s    ██████████████░░░░░░░░░░░  54.30%
+TypeScript     8h 55m 30s    ████░░░░░░░░░░░░░░░░░░░░░  15.75%
+Text           5h 45m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  10.16%
+Markdown       3h 13m 28s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
+Python         1h 47m 46s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
 
 💼 Projects:
-matmanna       15h 48m 36s   ████████░░░░░░░░░░░░░░░░░  30.61%
-slacker-news   10h 29m 49s   ██████░░░░░░░░░░░░░░░░░░░  20.32%
-openmotion     8h 38m 27s    █████░░░░░░░░░░░░░░░░░░░░  16.73%
-marmalade-v2   7h 7m 57s     ████░░░░░░░░░░░░░░░░░░░░░  13.81%
-omnifork       3h 12m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+matmanna       14h 54m 16s   ████████░░░░░░░░░░░░░░░░░  28.23%
+slacker-news   9h 5m 45s     █████░░░░░░░░░░░░░░░░░░░░  17.23%
+openmotion     8h 20m 43s    ████░░░░░░░░░░░░░░░░░░░░░  15.81%
+marmalade-v2   7h 7m 57s     ████░░░░░░░░░░░░░░░░░░░░░  13.51%
+mytholog       5h 2m 15s     ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
 
-Total: 33 hrs 1 mins
+Total: 34 hrs 19 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
