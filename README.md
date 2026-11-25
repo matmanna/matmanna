@@ -17,8 +17,8 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795572513558">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795572513558" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795645389139">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795645389139" width="742">
 </picture>
 
 <details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Boston,_Massachusetts">Boston</a>,<sub> (expand for stats!)</sub> but also: </summary>
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        30h 53m 38s   ██████████████░░░░░░░░░░░  52.10%
-TypeScript     8h 12m 51s    ████░░░░░░░░░░░░░░░░░░░░░  13.85%
-Text           6h 17m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.61%
-Markdown       5h 14m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
-Python         1h 51m 43s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+unknown        32h 55m 50s   █████████████░░░░░░░░░░░░  51.02%
+TypeScript     9h 21m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.50%
+Text           6h 27m 13s    ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+Markdown       6h 16m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
+Python         1h 56m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
 
 💼 Projects:
-matmanna       12h 33m 17s   ██████░░░░░░░░░░░░░░░░░░░  23.17%
-mytholog       9h 49m 48s    █████░░░░░░░░░░░░░░░░░░░░  18.14%
-marmalade-v2   7h 48m 38s    ████░░░░░░░░░░░░░░░░░░░░░  14.42%
-openmotion     6h 42m 58s    ████░░░░░░░░░░░░░░░░░░░░░  12.40%
-slacker-news   6h 41m 20s    ████░░░░░░░░░░░░░░░░░░░░░  12.35%
+matmanna       18h 17m 2s    ████████░░░░░░░░░░░░░░░░░  29.32%
+mytholog       12h 10m 37s   █████░░░░░░░░░░░░░░░░░░░░  19.53%
+marmalade-v2   7h 52m 22s    ████░░░░░░░░░░░░░░░░░░░░░  12.63%
+openmotion     6h 42m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  10.77%
+slacker-news   6h 41m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.73%
 
-Total: 34 hrs 18 mins
+Total: 36 hrs 57 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
