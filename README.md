@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        33h 25m 3s   █████████████░░░░░░░░░░░░  50.71%
-TypeScript     9h 43m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.75%
-Text           6h 29m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
-Markdown       6h 26m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.76%
-Python         2h 0m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.06%
+unknown        31h 27m 21s   █████████████░░░░░░░░░░░░  50.74%
+TypeScript     8h 41m 35s    ████░░░░░░░░░░░░░░░░░░░░░  14.02%
+Markdown       6h 14m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
+Text           6h 12m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  10.03%
+Python         1h 58m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
 
 💼 Projects:
-matmanna       18h 17m 2s   ████████░░░░░░░░░░░░░░░░░  28.87%
-mytholog       13h 9m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.78%
-marmalade-v2   7h 52m 22s   ████░░░░░░░░░░░░░░░░░░░░░  12.43%
-openmotion     6h 42m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.60%
-slacker-news   6h 41m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+matmanna       16h 58m 36s   ████████░░░░░░░░░░░░░░░░░  28.38%
+mytholog       13h 7m 51s    ██████░░░░░░░░░░░░░░░░░░░  21.95%
+marmalade-v2   7h 52m 22s    ████░░░░░░░░░░░░░░░░░░░░░  13.16%
+openmotion     6h 16m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
+slacker-news   5h 42m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
 
-Total: 37 hrs 56 mins
+Total: 35 hrs 55 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
