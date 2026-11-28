@@ -17,11 +17,11 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 ### what i'm up to `:now`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795847135515">
-  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795847135515" width="742">
+  <source media="(prefers-color-scheme: dark)" srcset="https://location.matmanna.dev/dark?style=plain&v=1795885156108">
+  <img alt="Map of where I am right now" src="https://location.matmanna.dev/light?style=plain&v=1795885156108" width="742">
 </picture>
 
-<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Pennsylvania">Pennsylvania</a>,<sub> (expand for stats!)</sub> but also: </summary>
+<details><summary>Recently, I've been shipping from <a href="https://en.wikipedia.org/wiki/Boston,_Massachusetts">Boston</a>,<sub> (expand for stats!)</sub> but also: </summary>
   
 #### 🏗️  The latest repos I've pushed to
 
@@ -45,20 +45,20 @@ Outside of computing, I’m also a guitarist, competition aficionado<sup id="fnr
 
 ```text
 💾 Languages:
-unknown        40h 23m 32s   ████████████░░░░░░░░░░░░░  45.58%
-TypeScript     15h 23m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.37%
-Markdown       8h 36m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
-Text           7h 5m 49s     ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
-HTML           3h 22m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+unknown        41h 5m 16s    ████████████░░░░░░░░░░░░░  45.90%
+TypeScript     15h 26m 20s   █████░░░░░░░░░░░░░░░░░░░░  17.25%
+Markdown       8h 39m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
+Text           7h 5m 49s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+HTML           3h 24m 42s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
 💼 Projects:
-mytholog       28h 41m 50s   ███████████░░░░░░░░░░░░░░  40.32%
-matmanna       14h 5m 47s    █████░░░░░░░░░░░░░░░░░░░░  19.81%
-marmalade-v2   7h 4m 45s     ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
-openmotion     5h 34m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
-plinth         3h 0m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
+mytholog       29h 28m 56s   ███████████░░░░░░░░░░░░░░  40.98%
+matmanna       14h 5m 47s    █████░░░░░░░░░░░░░░░░░░░░  19.59%
+marmalade-v2   7h 4m 45s     ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+openmotion     5h 34m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
+plinth         3h 0m 26s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
 
-Total: 45 hrs 58 mins
+Total: 46 hrs 45 mins
 ```
 
 _auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
